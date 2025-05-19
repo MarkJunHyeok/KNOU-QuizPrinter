@@ -1,0 +1,1322 @@
+[
+  {
+    "question_number": 1,
+    "question": "다음 중 데이터의 정의로 가장 알맞은 것은?",
+    "choices": {
+      "①": "처리되지 않은 원시 정보",
+      "②": "정보를 분석한 결과",
+      "③": "문제 해결의 최종 결과",
+      "④": "감정적 판단 자료"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 2,
+    "question": "정보는 어떤 과정을 거친 결과물인가?",
+    "choices": {
+      "①": "인간의 추론",
+      "②": "데이터의 가공 및 처리",
+      "③": "기계의 자율 분석",
+      "④": "논리적 오류 제거"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 3,
+    "question": "컴퓨터의 입력 기능에 해당하지 않는 것은?",
+    "choices": {
+      "①": "키보드",
+      "②": "마우스",
+      "③": "모니터",
+      "④": "스캐너"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 4,
+    "question": "다음 중 디지털 컴퓨터의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "명령문을 10진법으로 처리한다",
+      "②": "인간의 언어를 이해한다",
+      "③": "데이터를 2진법으로 표현한다",
+      "④": "감정을 바탕으로 결정한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 5,
+    "question": "알고리즘의 정의로 적절한 것은?",
+    "choices": {
+      "①": "결과 없이 끝나지 않는 절차",
+      "②": "문제 해결을 위한 단계적 절차",
+      "③": "반복적인 오류 유발 구조",
+      "④": "비논리적 지시 모음"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 6,
+    "question": "다음 중 프로그램의 정의로 가장 적절한 것은?",
+    "choices": {
+      "①": "입력된 데이터를 자동 저장하는 장치",
+      "②": "사람이 직접 실행하는 절차",
+      "③": "컴퓨터가 이해할 수 있는 명령어의 집합",
+      "④": "데이터를 시각화한 그림"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 7,
+    "question": "다음 중 처리 및 가공 없이 정보를 얻을 수 있다고 보는 잘못된 설명은?",
+    "choices": {
+      "①": "데이터는 그대로 의미를 갖는다",
+      "②": "데이터는 정보를 위한 재료이다",
+      "③": "데이터는 가공되어야 정보가 된다",
+      "④": "데이터는 관찰의 결과다"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 8,
+    "question": "다음 중 고급 프로그래밍 언어에 속하는 것은?",
+    "choices": {
+      "①": "어셈블리어",
+      "②": "기계어",
+      "③": "Python",
+      "④": "하드웨어"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 9,
+    "question": "알고리즘의 필수 요소로 포함되지 않는 것은?",
+    "choices": {
+      "①": "입력",
+      "②": "출력",
+      "③": "명확성",
+      "④": "모호성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 10,
+    "question": "컴퓨터가 정보를 처리할 때 반드시 필요한 것은?",
+    "choices": {
+      "①": "감정",
+      "②": "자율적 판단",
+      "③": "명령된 프로그램",
+      "④": "시각적 판단"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 11,
+    "question": "다음 중 하드웨어에 해당하는 것은?",
+    "choices": {
+      "①": "운영체제",
+      "②": "텍스트 문서",
+      "③": "RAM",
+      "④": "파일"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 12,
+    "question": "폰 노이만 구조에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "입력과 출력을 분리한 구조",
+      "②": "특수 목적 컴퓨터의 구조",
+      "③": "범용 컴퓨터의 구조",
+      "④": "네트워크 중심 구조"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 13,
+    "question": "중앙처리장치의 구성 요소로 올바른 것은?",
+    "choices": {
+      "①": "저장장치와 출력장치",
+      "②": "연산장치와 제어장치",
+      "③": "모니터와 키보드",
+      "④": "스피커와 마우스"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 14,
+    "question": "입력장치의 역할로 옳은 것은?",
+    "choices": {
+      "①": "데이터를 계산",
+      "②": "데이터를 저장",
+      "③": "데이터를 받아 2진수로 변환",
+      "④": "출력을 화면에 표시"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 15,
+    "question": "운영체제의 역할이 아닌 것은?",
+    "choices": {
+      "①": "사용자 인터페이스 제공",
+      "②": "하드웨어 자원 제어",
+      "③": "소프트웨어 자동 제작",
+      "④": "작업 환경 구성"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 16,
+    "question": "보조기억장치의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "전원이 꺼지면 내용이 사라진다",
+      "②": "데이터를 임시 저장",
+      "③": "데이터를 영구 저장",
+      "④": "저장이 불가능하다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 17,
+    "question": "다음 중 출력장치에 해당하는 것은?",
+    "choices": {
+      "①": "마우스",
+      "②": "프린터",
+      "③": "키보드",
+      "④": "스캐너"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 18,
+    "question": "운영체제가 제어하지 않는 하드웨어는?",
+    "choices": {
+      "①": "CPU",
+      "②": "RAM",
+      "③": "HDD",
+      "④": "종이"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 19,
+    "question": "시스템 소프트웨어에 해당하지 않는 것은?",
+    "choices": {
+      "①": "운영체제",
+      "②": "컴파일러",
+      "③": "유틸리티",
+      "④": "이미지 편집기"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 20,
+    "question": "다음 중 컴파일러의 기능으로 옳은 것은?",
+    "choices": {
+      "①": "데이터를 압축",
+      "②": "고급 언어 → 기계어 번역",
+      "③": "화면 출력 전환",
+      "④": "메모리 복사"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 21,
+    "question": "파이썬의 창시자인 ‘히도 판 로섬’이 언어명을 정할 때 참고한 코미디는?",
+    "choices": {
+      "①": "Mr. Bean",
+      "②": "Monty Python’s Flying Circus",
+      "③": "Saturday Night Live",
+      "④": "The Office"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 22,
+    "question": "파이썬 2.0과 파이썬 3.0의 출시년도는 각각?",
+    "choices": {
+      "①": "1999 / 2008",
+      "②": "2000 / 2008",
+      "③": "2001 / 2007",
+      "④": "1998 / 2006"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 23,
+    "question": "다음 중 파이썬이 지원하지 않는 프로그래밍 패러다임은?",
+    "choices": {
+      "①": "명령형",
+      "②": "함수형",
+      "③": "객체지향",
+      "④": "하드웨어 제어형"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 24,
+    "question": "파이썬이 활용되지 않는 분야는?",
+    "choices": {
+      "①": "웹 개발",
+      "②": "사물인터넷",
+      "③": "모바일 앱 개발",
+      "④": "데이터 분석"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 25,
+    "question": "PEP 8은 무엇에 대한 가이드라인인가?",
+    "choices": {
+      "①": "하드웨어 명세",
+      "②": "코드 스타일",
+      "③": "게임 프로그래밍",
+      "④": "데이터베이스 설계"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 26,
+    "question": "파이썬의 주요 특징이 아닌 것은?",
+    "choices": {
+      "①": "동적 타이핑",
+      "②": "플랫폼 독립성",
+      "③": "인터프리터 방식",
+      "④": "정적 컴파일 언어"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 27,
+    "question": "구글 코랩에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "이미지 편집 도구이다",
+      "②": "오피스 문서를 작성하는 도구이다",
+      "③": "주피터 노트북과 구글 드라이브를 결합한 서비스이다",
+      "④": "하드웨어를 제어하는 시스템이다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 28,
+    "question": "다음 중 파이썬의 실행 과정에서 일어나는 첫 번째 단계는?",
+    "choices": {
+      "①": "기계어 실행",
+      "②": "바이트 코드 생성",
+      "③": "소스코드 작성",
+      "④": "네트워크 송신"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 29,
+    "question": "다음 중 파이썬 코드가 실행되는 가상 환경은?",
+    "choices": {
+      "①": "PVM",
+      "②": "JVM",
+      "③": "GVM",
+      "④": "SVM"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 30,
+    "question": "함수에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "①": "특정 작업을 수행하는 명령문의 집합이다",
+      "②": "함수는 반드시 값을 반환해야 한다",
+      "③": "함수 이름으로 호출할 수 있다",
+      "④": "코드를 재사용하기 위해 사용된다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 31,
+    "question": "파이썬의 주석 표현으로 옳지 않은 것은?",
+    "choices": {
+      "①": "# 한 줄 주석",
+      "②": "\"\"\" 여러 줄 주석 \"\"\"",
+      "③": "''' 여러 줄 주석 '''",
+      "④": "/* 여러 줄 주석 */"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 32,
+    "question": "다음 중 피연산자와 연산자의 조합으로 자동 계산되는 것은?",
+    "choices": {
+      "①": "함수",
+      "②": "조건문",
+      "③": "표현식",
+      "④": "반복문"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 33,
+    "question": "파이썬에서 코드 블록 구분을 위해 사용하는 것은?",
+    "choices": {
+      "①": "괄호",
+      "②": "세미콜론",
+      "③": "들여쓰기",
+      "④": "슬래시"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 34,
+    "question": "식별자에 해당하는 것은?",
+    "choices": {
+      "①": "예약어",
+      "②": "변수 이름",
+      "③": "주석",
+      "④": "연산자"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 35,
+    "question": "파이썬에서 정수 나눗셈을 나타내는 연산자는?",
+    "choices": {
+      "①": "/",
+      "②": "%",
+      "③": "//",
+      "④": "**"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 36,
+    "question": "다음 중 파이썬 내장 함수가 아닌 것은?",
+    "choices": {
+      "①": "str()",
+      "②": "int()",
+      "③": "float()",
+      "④": "upper()"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 37,
+    "question": "문자열을 표현할 때 사용하지 않는 기호는?",
+    "choices": {
+      "①": "\"",
+      "②": "'",
+      "③": "`",
+      "④": "\"\"\""
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 38,
+    "question": "파이썬에서 구조적 프로그래밍에 따라 사용하는 흐름 제어 구조가 아닌 것은?",
+    "choices": {
+      "①": "순차",
+      "②": "선택",
+      "③": "반복",
+      "④": "점프(goto)"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 39,
+    "question": "순차 구조의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "조건에 따라 분기",
+      "②": "명령의 위치 흐름대로 실행",
+      "③": "특정 조건 반복",
+      "④": "명령을 무작위 실행"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 40,
+    "question": "다음 코드의 구조는 무엇인가?\n```\nprint(\"A\")  \nprint(\"B\")  \nprint(\"C\")  \n```",
+    "choices": {
+      "①": "선택 구조",
+      "②": "순차 구조",
+      "③": "반복 구조",
+      "④": "함수 구조"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 41,
+    "question": "선택 구조의 대표적인 조건문 구문은?",
+    "choices": {
+      "①": "for",
+      "②": "while",
+      "③": "if",
+      "④": "def"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 42,
+    "question": "불리언(Boolean) 타입으로 표현될 수 있는 값은?",
+    "choices": {
+      "①": "\"True\"",
+      "②": "1.0",
+      "③": "True",
+      "④": "\"False\""
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 43,
+    "question": "다음 중 불리언식을 구성할 때 사용하는 연산자는?",
+    "choices": {
+      "①": "+",
+      "②": "//",
+      "③": "==",
+      "④": "**"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 44,
+    "question": "논리 연산자에 해당하지 않는 것은?",
+    "choices": {
+      "①": "and",
+      "②": "or",
+      "③": "not",
+      "④": "add"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 45,
+    "question": "다음 중 단락 평가에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "모든 조건을 반드시 계산한다",
+      "②": "첫 조건이 거짓이면 이후 조건은 무시된다",
+      "③": "항상 True를 반환한다",
+      "④": "오류를 피하기 위한 기능이다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 46,
+    "question": "if, elif, else로 구성되는 구조는 어떤 선택 구조인가?",
+    "choices": {
+      "①": "단일 선택",
+      "②": "다중 선택",
+      "③": "반복 선택",
+      "④": "무작위 선택"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 47,
+    "question": "중첩 선택 구조에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "반복문 안에 반복문",
+      "②": "선택 구조 내에 또 다른 선택 구조 포함",
+      "③": "함수 내에 함수 정의",
+      "④": "조건 없는 선택"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 48,
+    "question": "or 연산자의 결과로 True가 반환되는 경우는?",
+    "choices": {
+      "①": "두 조건이 모두 False",
+      "②": "첫 조건이 False",
+      "③": "두 조건이 모두 True",
+      "④": "하나라도 True일 때"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 49,
+    "question": "if 조건식: 구문은 어떤 구조에 속하는가?",
+    "choices": {
+      "①": "반복",
+      "②": "선택",
+      "③": "순차",
+      "④": "정의"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 50,
+    "question": "not 연산자의 기능으로 옳은 것은?",
+    "choices": {
+      "①": "곱셈",
+      "②": "참 → 거짓, 거짓 → 참",
+      "③": "둘 중 하나만 참인지 판별",
+      "④": "조건을 그대로 유지"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 51,
+    "question": "다음 중 조건 제어 반복에 해당하는 것은?",
+    "choices": {
+      "①": "for",
+      "②": "while",
+      "③": "if",
+      "④": "def"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 52,
+    "question": "리스트에 대한 설명으로 옳지 않은 것은?",
+    "choices": {
+      "①": "순서가 있다",
+      "②": "값 수정이 가능하다",
+      "③": "값 추가와 삭제가 가능하다",
+      "④": "값이 정해진 개수로만 저장된다"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 53,
+    "question": "다음 중 중첩 반복 구조를 설명한 것은?",
+    "choices": {
+      "①": "함수 내 반복문",
+      "②": "반복문 내 반복문",
+      "③": "선택문 내 반복문",
+      "④": "무한 루프"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 54,
+    "question": "계수 제어 반복의 구문 형식은?",
+    "choices": {
+      "①": "while 조건:",
+      "②": "if 조건:",
+      "③": "for 변수 in 시퀀스:",
+      "④": "def 함수():"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 55,
+    "question": "while 반복문의 특징으로 올바른 것은?",
+    "choices": {
+      "①": "반복 횟수를 지정해야 한다",
+      "②": "조건이 True일 때 반복",
+      "③": "무조건 한 번만 실행",
+      "④": "리스트에서만 사용 가능"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 56,
+    "question": "다음 중 리스트의 특징이 아닌 것은?",
+    "choices": {
+      "①": "순서 있음",
+      "②": "수정 가능",
+      "③": "삭제 가능",
+      "④": "집합처럼 중복 제거"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 57,
+    "question": "for문을 사용할 수 있는 대상이 아닌 것은?",
+    "choices": {
+      "①": "문자열",
+      "②": "리스트",
+      "③": "숫자형 정수",
+      "④": "range()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 58,
+    "question": "다음 중 조건 제어 반복 구조에 해당하는 구문은?",
+    "choices": {
+      "①": "for i in range(5):",
+      "②": "while i < 10:",
+      "③": "def 함수():",
+      "④": "if 조건:"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 59,
+    "question": "중첩 반복 구조의 실행 순서에 대한 설명으로 맞는 것은?",
+    "choices": {
+      "①": "내부 반복이 끝나면 외부 반복을 건너뜀",
+      "②": "외부 반복이 반복될 때마다 내부 반복이 새로 실행",
+      "③": "무조건 한 번만 실행",
+      "④": "외부 반복이 없으면 내부 반복만 작동"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 60,
+    "question": "리스트의 특정 원소에 접근할 때 사용하는 연산자는?",
+    "choices": {
+      "①": "()",
+      "②": "{}",
+      "③": "<>",
+      "④": "[]"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 61,
+    "question": "함수에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "반드시 매개변수를 가져야 한다",
+      "②": "값을 반환하지 않으면 오류가 발생한다",
+      "③": "반복문과 동일한 역할을 한다",
+      "④": "특정 작업을 수행하는 명령문의 집합이다"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 62,
+    "question": "반환값이 없는 함수의 특징은?",
+    "choices": {
+      "①": "return문이 필수다",
+      "②": "함수 호출 결과를 변수에 저장할 수 있다",
+      "③": "실행 후 값을 반환하지 않는다",
+      "④": "항상 True를 반환한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 63,
+    "question": "동시 할당이 가능한 예는?",
+    "choices": {
+      "①": "a = 1, b",
+      "②": "a == b",
+      "③": "a = b = 3",
+      "④": "a, b = b, a"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 64,
+    "question": "기본 매개변수의 특징은?",
+    "choices": {
+      "①": "항상 값을 전달해야 한다",
+      "②": "함수 내에서만 사용 가능하다",
+      "③": "전달되지 않으면 기본값을 사용한다",
+      "④": "오류를 발생시킨다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 65,
+    "question": "다음 중 가변 매개변수 정의 방식으로 옳은 것은?",
+    "choices": {
+      "①": "def func(**args):",
+      "②": "def func(args):",
+      "③": "def func(*args):",
+      "④": "def func(&args):"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 66,
+    "question": "변수의 스코프에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "①": "지역 변수는 함수 내부에서 정의된다",
+      "②": "전역 변수는 프로그램 전체에서 참조 가능하다",
+      "③": "변수는 항상 전역으로 선언된다",
+      "④": "스코프에 따라 변수의 유효 범위가 다르다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 67,
+    "question": "함수 호출 시 매개변수의 값 전달 방식은?",
+    "choices": {
+      "①": "메모리 공유",
+      "②": "참조에 의한 전달",
+      "③": "값에 의한 전달",
+      "④": "주소 복사"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 68,
+    "question": "다음 중 반환값이 있는 함수에 해당하는 특징은?",
+    "choices": {
+      "①": "반드시 return 문이 포함된다",
+      "②": "출력을 하지 않는다",
+      "③": "함수 내부에서만 작동한다",
+      "④": "반환할 수 있는 값이 없다"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 69,
+    "question": "지역 변수의 올바른 설명은?",
+    "choices": {
+      "①": "프로그램 어디서나 접근 가능하다",
+      "②": "클래스에서만 정의된다",
+      "③": "함수 외부에서 선언된다",
+      "④": "함수 내부에서 선언되고, 외부에서는 접근 불가"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 70,
+    "question": "다음 중 동시 할당의 장점으로 옳은 것은?",
+    "choices": {
+      "①": "코드를 복잡하게 만든다",
+      "②": "여러 줄의 코드가 필요하다",
+      "③": "변수 값을 간단히 교환할 수 있다",
+      "④": "실행 속도를 낮춘다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 71,
+    "question": "객체지향 프로그래밍의 기본 개념이 아닌 것은?",
+    "choices": {
+      "①": "캡슐화",
+      "②": "추상화",
+      "③": "다형성",
+      "④": "반복성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 72,
+    "question": "다음 중 생성자 함수의 이름으로 옳은 것은?",
+    "choices": {
+      "①": "constructor",
+      "②": "def start()",
+      "③": "init",
+      "④": "main"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 73,
+    "question": "객체의 속성이나 메서드에 접근할 때 사용하는 연산자는?",
+    "choices": {
+      "①": "+",
+      "②": ".",
+      "③": ":",
+      "④": ","
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 74,
+    "question": "다형성의 정의로 옳은 것은?",
+    "choices": {
+      "①": "동일한 이름의 메서드가 다양한 방식으로 동작함",
+      "②": "데이터를 숨기는 것",
+      "③": "클래스에서 상속을 제거하는 것",
+      "④": "객체가 생성되지 않도록 막는 것"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 75,
+    "question": "private 속성을 정의할 때 사용하는 표기법은?",
+    "choices": {
+      "①": "변수",
+      "②": "변수_",
+      "③": "_변수",
+      "④": "변수"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 76,
+    "question": "접근자 메서드의 역할은?",
+    "choices": {
+      "①": "값을 삭제",
+      "②": "값을 변경",
+      "③": "값을 출력",
+      "④": "값을 반환"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 77,
+    "question": "다음 중 모듈을 등록할 때 사용하는 구문은?",
+    "choices": {
+      "①": "load",
+      "②": "import",
+      "③": "define",
+      "④": "module"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 78,
+    "question": "모듈과 관련된 구문으로 틀린 것은?",
+    "choices": {
+      "①": "import 모듈",
+      "②": "from 모듈 import 함수",
+      "③": "include 모듈",
+      "④": "import 모듈 as 별칭"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 79,
+    "question": "다음 중 패키지에 대한 설명으로 옳지 않은 것은?",
+    "choices": {
+      "①": "모듈들의 모음이다",
+      "②": "디렉터리 구조를 갖는다",
+      "③": "라이브러리보다 상위 개념이다",
+      "④": "하위 패키지를 포함할 수 있다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 80,
+    "question": "모듈 내 정의된 모든 이름을 확인할 수 있는 함수는?",
+    "choices": {
+      "①": "list()",
+      "②": "dir()",
+      "③": "map()",
+      "④": "find()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 81,
+    "question": "다음 중 help() 함수의 기능으로 올바른 것은?",
+    "choices": {
+      "①": "파일을 닫는다",
+      "②": "모듈을 삭제한다",
+      "③": "클래스나 함수의 도움말을 보여준다",
+      "④": "코드를 컴파일한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 82,
+    "question": "네임스페이스의 정의로 옳은 것은?",
+    "choices": {
+      "①": "메모리 주소값을 저장하는 공간",
+      "②": "프로그램 내에서 이름을 구분하는 범위",
+      "③": "디버깅 기능",
+      "④": "출력 전용 영역"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 83,
+    "question": "다음 중 네임스페이스의 종류가 아닌 것은?",
+    "choices": {
+      "①": "지역 네임스페이스",
+      "②": "전역 네임스페이스",
+      "③": "내장 네임스페이스",
+      "④": "외부 네임스페이스"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 84,
+    "question": "del 명령어의 기능은?",
+    "choices": {
+      "①": "리스트 정렬",
+      "②": "모듈을 로드",
+      "③": "변수나 식별자를 삭제",
+      "④": "객체를 생성"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 85,
+    "question": "다음 중 난수 관련 기능을 제공하는 모듈은?",
+    "choices": {
+      "①": "random",
+      "②": "math",
+      "③": "string",
+      "④": "datetime"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 86,
+    "question": "다음 중 time 모듈의 주요 기능으로 올바른 것은?",
+    "choices": {
+      "①": "난수 생성",
+      "②": "현재 시간 확인 및 표시",
+      "③": "문자열 인코딩",
+      "④": "네트워크 전송"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 87,
+    "question": "파일 포인터가 의미하는 것은?",
+    "choices": {
+      "①": "파일의 전체 크기",
+      "②": "파일 내 작업 중인 위치",
+      "③": "디렉터리 이름",
+      "④": "파일의 이름"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 88,
+    "question": "파일을 구성하는 요소가 아닌 것은?",
+    "choices": {
+      "①": "파일 포인터",
+      "②": "시작 위치",
+      "③": "랜덤 값",
+      "④": "끝 위치"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 89,
+    "question": "파일을 열기 위한 모드 중, 기존 내용을 유지하면서 덧붙이는 모드는?",
+    "choices": {
+      "①": "'w'",
+      "②": "'r'",
+      "③": "'a'",
+      "④": "'x'"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 90,
+    "question": "딕셔너리의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "순서를 유지한다",
+      "②": "키와 값 쌍으로 저장된다",
+      "③": "값만 저장할 수 있다",
+      "④": "중복된 키를 허용한다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 91,
+    "question": "빈 딕셔너리를 만드는 올바른 방법은?",
+    "choices": {
+      "①": "dict = []",
+      "②": "dict = set()",
+      "③": "dict = {}",
+      "④": "dict = ()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 92,
+    "question": "다음 중 딕셔너리의 항목 하나만 삭제하는 방법은?",
+    "choices": {
+      "①": "del 딕셔너리",
+      "②": "딕셔너리.clear()",
+      "③": "del 딕셔너리[키]",
+      "④": "del 딕셔너리.items()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 93,
+    "question": "딕셔너리의 모든 항목을 (키, 값) 형태로 반환하는 메서드는?",
+    "choices": {
+      "①": "keys()",
+      "②": "values()",
+      "③": "items()",
+      "④": "pop()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 94,
+    "question": "popitem() 메서드의 기능으로 올바른 것은?",
+    "choices": {
+      "①": "모든 항목 삭제",
+      "②": "가장 오래된 항목 반환 후 삭제",
+      "③": "가장 최근 항목 반환 후 삭제",
+      "④": "무작위 항목 반환 후 삭제"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 95,
+    "question": "소프트웨어 개발 생명 주기의 순서로 알맞은 것은?",
+    "choices": {
+      "①": "분석 → 계획 → 설계 → 테스트",
+      "②": "계획 → 분석 → 설계 → 구현 → 테스트 → 유지보수",
+      "③": "구현 → 테스트 → 설계 → 분석",
+      "④": "테스트 → 유지보수 → 계획"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 96,
+    "question": "배치 프로세스의 정의로 알맞은 것은?",
+    "choices": {
+      "①": "사용자 입력에 따라 실시간 처리",
+      "②": "데이터를 순차적으로 삭제",
+      "③": "데이터를 일정 시점에 일괄 처리",
+      "④": "반복문을 실행하는 것"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 97,
+    "question": "다음 중 이벤트의 정의로 알맞은 것은?",
+    "choices": {
+      "①": "정적 저장 공간",
+      "②": "반복되는 연산",
+      "③": "프로그램이 감지하고 처리할 수 있는 사건",
+      "④": "변수의 선언"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 98,
+    "question": "리스트에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "값을 수정할 수 없다",
+      "②": "순서가 없다",
+      "③": "값의 추가와 삭제가 불가능하다",
+      "④": "값의 순서가 있고 수정이 가능하다"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 99,
+    "question": "게임 루프의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "한 번만 실행된다",
+      "②": "무한 반복되며 이벤트 처리, 화면 갱신 등을 담당",
+      "③": "사용자 입력이 없을 때만 실행",
+      "④": "초기화 이후 종료된다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 100,
+    "question": "[전제] 다음은 컴퓨터가 빈 칸 중 하나를 무작위로 선택하여 기호를 입력하는 방식으로 구현된 틱택토 게임이다.\n\n문제. 이 게임에서 컴퓨터의 동작 방식으로 가장 알맞은 것은?",
+    "choices": {
+      "①": "플레이어 순서를 무시한다",
+      "②": "고정된 위치에 기호를 넣는다",
+      "③": "빈칸을 무작위로 선택한다",
+      "④": "무조건 중앙을 선택한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 101,
+    "question": "다음 중 파이썬에서 range(5)가 생성하는 값에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "1부터 5까지의 정수 생성",
+      "②": "0부터 4까지의 정수 생성",
+      "③": "0부터 5까지 실수 생성",
+      "④": "무한 루프를 생성"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 102,
+    "question": "소프트웨어 개발 생명주기의 설명 중 옳은 것은?",
+    "choices": {
+      "①": "하드웨어 제작 과정이다",
+      "②": "운영체제를 제거하는 절차다",
+      "③": "개발 계획부터 폐기까지의 전체 과정이다",
+      "④": "설계 이후 테스트 없이 출시한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 103,
+    "question": "```\nwhile True:\n    move = input(\"좌표를 입력하세요 (행 열): \")\n    if move == '0 0':\n        print(\"게임 종료\")\n        break\n```\n틱택토 게임에서 사용자가 '0 0'을 입력하면 어떤 동작이 수행되는가?",
+    "choices": {
+      "①": "첫 줄 첫 칸에 입력",
+      "②": "입력 무시",
+      "③": "게임 종료 요청",
+      "④": "새 게임 시작"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 104,
+    "question": "이벤트 기반 프로그래밍에 대한 설명으로 옳지 않은 것은?",
+    "choices": {
+      "①": "사용자 입력에 따라 동작",
+      "②": "타이머 등의 외부 이벤트 처리",
+      "③": "명령어를 순차적으로만 실행",
+      "④": "프로그램 흐름이 이벤트에 의해 제어됨"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 105,
+    "question": "파이썬에서 open() 함수로 파일을 열 때, 기존 파일을 덮어쓰는 모드는?",
+    "choices": {
+      "①": "'a'",
+      "②": "'x'",
+      "③": "'w'",
+      "④": "'r'"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 106,
+    "question": "다음 중 딕셔너리의 키(key)에 사용할 수 없는 값은?",
+    "choices": {
+      "①": "정수",
+      "②": "문자열",
+      "③": "리스트",
+      "④": "튜플"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 107,
+    "question": "파이썬에서 dict.clear() 메서드는 어떤 기능을 하는가?",
+    "choices": {
+      "①": "딕셔너리 전체 삭제",
+      "②": "특정 키 삭제",
+      "③": "값 출력",
+      "④": "딕셔너리 복사"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 108,
+    "question": "다음 중 딕셔너리의 키 목록을 반환하는 메서드는?",
+    "choices": {
+      "①": "items()",
+      "②": "values()",
+      "③": "keys()",
+      "④": "pop()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 109,
+    "question": "파이썬에서 a = {}의 의미는?",
+    "choices": {
+      "①": "리스트 생성",
+      "②": "튜플 생성",
+      "③": "집합 생성",
+      "④": "빈 딕셔너리 생성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 110,
+    "question": "파이썬에서 모듈, 패키지, 라이브러리의 관계로 옳은 것은?",
+    "choices": {
+      "①": "모듈 > 패키지 > 라이브러리",
+      "②": "패키지 > 라이브러리 > 모듈",
+      "③": "라이브러리 > 패키지 > 모듈",
+      "④": "패키지 = 라이브러리 = 모듈"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 111,
+    "question": "from 모듈 import 함수 구문은 어떤 목적에 사용되는가?",
+    "choices": {
+      "①": "모듈 전체 불러오기",
+      "②": "함수만 선택적으로 불러오기",
+      "③": "모듈을 삭제",
+      "④": "클래스 복사"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 112,
+    "question": "다음 중 난수 생성에 사용되는 함수는?",
+    "choices": {
+      "①": "random.randint()",
+      "②": "math.sqrt()",
+      "③": "input()",
+      "④": "time.sleep()"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 113,
+    "question": "파일을 쓰기 모드로 열고 기존 내용을 유지하고 싶을 때 사용하는 모드는?",
+    "choices": {
+      "①": "'w'",
+      "②": "'r'",
+      "③": "'a'",
+      "④": "'x'"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 114,
+    "question": "time.sleep(2)의 기능은?",
+    "choices": {
+      "①": "2시간 대기",
+      "②": "2초 동안 대기",
+      "③": "시간을 반환",
+      "④": "현재 날짜 출력"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 115,
+    "question": "파일을 한 줄씩 읽을 때 사용하는 메서드는?",
+    "choices": {
+      "①": "read()",
+      "②": "readline()",
+      "③": "write()",
+      "④": "close()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 116,
+    "question": "다음 중 딕셔너리에서 특정 키의 값을 반환하고 삭제하는 메서드는?",
+    "choices": {
+      "①": "pop()",
+      "②": "get()",
+      "③": "del",
+      "④": "remove()"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 117,
+    "question": "```\ndef check_win(board, player):\n    # 가로 줄 검사\n    for row in board:\n        if all(cell == player for cell in row):\n            return True\n\n    # 세로 줄 검사\n    for col in range(3):\n        if all(board[row][col] == player for row in range(3)):\n            return True\n\n    # 대각선 검사\n    if all(board[i][i] == player for i in range(3)):\n        return True\n    if all(board[i][2 - i] == player for i in range(3)):\n        return True\n\n    return False\n```\n틱택토 게임에서 check_win(board, player) 함수는 어떤 기능을 수행하는가?",
+    "choices": {
+      "①": "게임 보드를 초기화한다",
+      "②": "사용자의 입력을 받는다",
+      "③": "사용자의 승리 조건을 판별한다",
+      "④": "무승부 여부를 판단한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 118,
+    "question": "파이썬의 구조적 프로그래밍에서 goto 문이 사용되지 않는 이유는?",
+    "choices": {
+      "①": "성능 저하",
+      "②": "가독성 향상과 오류 방지",
+      "③": "문법 지원 부족",
+      "④": "메모리 절약"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 119,
+    "question": "게임 루프의 핵심 요소가 아닌 것은?",
+    "choices": {
+      "①": "이벤트 검사",
+      "②": "초기화 후 종료",
+      "③": "화면 생성",
+      "④": "게임 상태 업데이트"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 120,
+    "question": "파이썬에서 함수를 정의하는 키워드는?",
+    "choices": {
+      "①": "define",
+      "②": "function",
+      "③": "def",
+      "④": "fn"
+    },
+    "correct_answer": "③"
+  }
+]

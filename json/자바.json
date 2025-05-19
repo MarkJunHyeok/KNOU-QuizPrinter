@@ -1,0 +1,772 @@
+[
+  {
+    "question_number": 1,
+    "question": "Java 언어의 주요 특징으로 올바르지 않은 것은?",
+    "choices": {
+      "①": "플랫폼 독립적인 언어이다.",
+      "②": "객체지향 언어이다.",
+      "③": "인터프리터 언어만을 사용한다.",
+      "④": "멀티스레드를 지원한다."
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 2,
+    "question": "Java 프로그램이 다양한 운영체제에서 실행 가능한 이유는?",
+    "choices": {
+      "①": "운영체제에 맞게 재컴파일되기 때문에",
+      "②": "인터프리터 방식으로만 실행되기 때문에",
+      "③": "Java Virtual Machine이 있기 때문에",
+      "④": "Java는 어셈블리 언어 기반이기 때문에"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 3,
+    "question": "다음 중 Java 언어의 개발 도구로 포함되지 않는 것은?",
+    "choices": {
+      "①": "javac",
+      "②": "java",
+      "③": "notepad",
+      "④": "javadoc"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 4,
+    "question": "Java 언어의 소스 코드를 실행 가능한 형태로 바꾸는 단계는?",
+    "choices": {
+      "①": "링킹",
+      "②": "컴파일 → 바이트코드 실행",
+      "③": "인터프리팅",
+      "④": "기계어 변환"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 5,
+    "question": "Java에서 바이트코드를 실행하는 주체는?",
+    "choices": {
+      "①": "운영체제",
+      "②": "JVM",
+      "③": "JDK",
+      "④": "컴파일러"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 6,
+    "question": "Java에서 변수 선언 시 올바른 것은?",
+    "choices": {
+      "①": "int = x 10;",
+      "②": "x int = 10;",
+      "③": "int x = 10;",
+      "④": "10 = x int;"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 7,
+    "question": "Java의 기본 자료형이 아닌 것은?",
+    "choices": {
+      "①": "int",
+      "②": "boolean",
+      "③": "String",
+      "④": "double"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 8,
+    "question": "Java에서 산술 연산 결과가 정수형이 되는 것은?",
+    "choices": {
+      "①": "5 / 2",
+      "②": "5.0 / 2",
+      "③": "5 / 2.0",
+      "④": "5.0 / 2.0"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 9,
+    "question": "Java에서 예약어가 아닌 것은?",
+    "choices": {
+      "①": "for",
+      "②": "while",
+      "③": "switch",
+      "④": "define"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 10,
+    "question": "Java에서 문자열 비교 시 사용하는 메서드는?",
+    "choices": {
+      "①": "==",
+      "②": "equals()",
+      "③": "isEqual()",
+      "④": "compare()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 11,
+    "question": "Java에서 클래스를 정의할 때 사용하는 키워드는?",
+    "choices": {
+      "①": "method",
+      "②": "object",
+      "③": "class",
+      "④": "define"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 12,
+    "question": "다음 중 객체를 생성하는 올바른 방법은?",
+    "choices": {
+      "①": "MyClass obj();",
+      "②": "new obj = MyClass();",
+      "③": "obj = new MyClass;",
+      "④": "MyClass obj = new MyClass();"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 13,
+    "question": "생성자의 역할로 올바른 것은?",
+    "choices": {
+      "①": "객체를 파괴한다.",
+      "②": "객체의 초기화를 담당한다.",
+      "③": "클래스를 실행한다.",
+      "④": "객체를 복제한다."
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 14,
+    "question": "클래스 내부에서 객체 자신의 참조를 나타내는 키워드는?",
+    "choices": {
+      "①": "super",
+      "②": "self",
+      "③": "this",
+      "④": "my"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 15,
+    "question": "메서드 오버로딩에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "같은 이름의 메서드를 다른 클래스에서 사용하는 것",
+      "②": "같은 이름의 메서드를 매개변수만 다르게 정의하는 것",
+      "③": "상속받은 메서드를 재정의하는 것",
+      "④": "클래스를 여러 번 선언하는 것"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 16,
+    "question": "Java에서 상속을 표현할 때 사용하는 키워드는?",
+    "choices": {
+      "①": "extends",
+      "②": "inherits",
+      "③": "derive",
+      "④": "super"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 17,
+    "question": "다음 중 메서드 오버라이딩의 설명으로 옳은 것은?",
+    "choices": {
+      "①": "같은 클래스 내에서 메서드 이름만 다르게 정의하는 것",
+      "②": "부모 클래스의 메서드를 자식 클래스에서 재정의하는 것",
+      "③": "메서드를 static으로 바꾸는 것",
+      "④": "여러 클래스에서 같은 이름의 메서드를 호출하는 것"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 18,
+    "question": "다형성(polymorphism)의 장점으로 옳지 않은 것은?",
+    "choices": {
+      "①": "코드의 재사용성을 높여준다.",
+      "②": "동일한 코드로 다양한 객체를 처리할 수 있다.",
+      "③": "프로그램의 가독성을 떨어뜨린다.",
+      "④": "유연한 코드 작성이 가능하다."
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 19,
+    "question": "부모 클래스의 생성자를 호출할 때 사용하는 키워드는?",
+    "choices": {
+      "①": "this",
+      "②": "super",
+      "③": "parent",
+      "④": "base"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 20,
+    "question": "다음 중 Java에서 다형성을 사용하는 방법이 아닌 것은?",
+    "choices": {
+      "①": "인터페이스를 구현하여 다양한 객체를 사용하는 것",
+      "②": "상속을 통해 여러 타입을 하나처럼 사용하는 것",
+      "③": "객체를 복사하여 사용하는 것",
+      "④": "오버라이딩된 메서드를 상속받아 사용하는 것"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 21,
+    "question": "Java의 제네릭(Generic)의 주요 목적은?",
+    "choices": {
+      "①": "코드 중복을 줄이기 위해",
+      "②": "클래스를 상속받기 위해",
+      "③": "클래스를 실행하기 위해",
+      "④": "컴파일 속도를 높이기 위해"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 22,
+    "question": "제네릭 타입 T를 사용하는 클래스 선언으로 올바른 것은?",
+    "choices": {
+      "①": "class Box<T> { }",
+      "②": "class<T> Box { }",
+      "③": "Box<T> class { }",
+      "④": "class Box T<> { }"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 23,
+    "question": "Java에서 람다식은 무엇을 간단히 표현하기 위한 문법인가?",
+    "choices": {
+      "①": "조건문",
+      "②": "반복문",
+      "③": "인터페이스의 구현",
+      "④": "예외 처리"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 24,
+    "question": "다음 중 람다식의 기본 형식으로 옳은 것은?",
+    "choices": {
+      "①": "(int x) -> { return x + 1; }",
+      "②": "(x int) => { return x + 1; }",
+      "③": "function(x) { x + 1; }",
+      "④": "lambda x: x + 1"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 25,
+    "question": "다음 중 람다식을 사용할 수 없는 곳은?",
+    "choices": {
+      "①": "Comparator 인터페이스",
+      "②": "Runnable 인터페이스",
+      "③": "함수형 인터페이스",
+      "④": "일반 클래스의 생성자"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 26,
+    "question": "Java에서 패키지를 정의할 때 사용하는 키워드는?",
+    "choices": {
+      "①": "package",
+      "②": "include",
+      "③": "import",
+      "④": "namespace"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 27,
+    "question": "다음 중 java.lang 패키지에 포함된 클래스는?",
+    "choices": {
+      "①": "Scanner",
+      "②": "System",
+      "③": "File",
+      "④": "ArrayList"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 28,
+    "question": "try-catch문에서 예외가 발생하지 않을 경우 실행되는 블록은?",
+    "choices": {
+      "①": "catch",
+      "②": "throw",
+      "③": "finally",
+      "④": "try"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 29,
+    "question": "사용자 정의 예외 클래스를 만들기 위해 상속해야 할 클래스는?",
+    "choices": {
+      "①": "Throwable",
+      "②": "Error",
+      "③": "RuntimeException",
+      "④": "Exception"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 30,
+    "question": "예외 발생 시 즉시 예외 객체를 생성하고 전파할 때 사용하는 키워드는?",
+    "choices": {
+      "①": "throw",
+      "②": "throws",
+      "③": "catch",
+      "④": "try"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 31,
+    "question": "Object 클래스에 정의된 메서드가 아닌 것은?",
+    "choices": {
+      "①": "toString()",
+      "②": "equals()",
+      "③": "compareTo()",
+      "④": "hashCode()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 32,
+    "question": "String 객체는 어떤 특성을 가지고 있는가?",
+    "choices": {
+      "①": "변경 가능하다",
+      "②": "참조형이 아니라 기본형이다",
+      "③": "불변 객체이다",
+      "④": "메모리 관리를 하지 않는다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 33,
+    "question": "StringBuffer의 주요 특징은?",
+    "choices": {
+      "①": "스레드에 안전하지 않다",
+      "②": "불변 객체이다",
+      "③": "문자열 변경이 불가능하다",
+      "④": "문자열 변경이 가능하다"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 34,
+    "question": "Wrapper 클래스의 역할은?",
+    "choices": {
+      "①": "배열을 감싸기 위한 클래스",
+      "②": "기본형 값을 객체로 감싸기 위한 클래스",
+      "③": "모든 클래스를 포장하는 클래스",
+      "④": "인터페이스를 구현하는 클래스"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 35,
+    "question": "System 클래스에서 제공하지 않는 기능은?",
+    "choices": {
+      "①": "표준 입출력",
+      "②": "시간 측정",
+      "③": "가비지 컬렉션 요청",
+      "④": "문자열 포맷"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 36,
+    "question": "Java에서 입출력 기능을 제공하는 주요 패키지는?",
+    "choices": {
+      "①": "java.util",
+      "②": "java.io",
+      "③": "java.lang",
+      "④": "java.sql"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 37,
+    "question": "InputStream 클래스는 어떤 데이터를 처리하는가?",
+    "choices": {
+      "①": "문자 기반 입력",
+      "②": "바이트 기반 입력",
+      "③": "문자열 포맷",
+      "④": "정렬된 컬렉션"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 38,
+    "question": "Reader와 Writer 클래스는 어떤 방식의 입출력을 담당하는가?",
+    "choices": {
+      "①": "바이트 기반",
+      "②": "파일 기반",
+      "③": "네트워크 기반",
+      "④": "문자 기반"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 39,
+    "question": "보조 스트림(FilterStream)의 역할은?",
+    "choices": {
+      "①": "입출력을 직접 처리한다",
+      "②": "데이터베이스 연결을 수행한다",
+      "③": "기존 스트림에 기능을 추가한다",
+      "④": "기본형 값을 객체로 포장한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 40,
+    "question": "파일에 텍스트 데이터를 저장할 때 주로 사용하는 클래스는?",
+    "choices": {
+      "①": "FileInputStream",
+      "②": "BufferedReader",
+      "③": "FileWriter",
+      "④": "PrintStream"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 41,
+    "question": "java.nio 패키지의 주요 특징은?",
+    "choices": {
+      "①": "네트워크 프로그래밍 전용이다",
+      "②": "스트림 기반 처리만 지원한다",
+      "③": "버퍼 기반 입출력을 지원한다",
+      "④": "입출력을 지원하지 않는다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 42,
+    "question": "NIO에서 입출력을 위한 주된 구성 요소가 아닌 것은?",
+    "choices": {
+      "①": "Channel",
+      "②": "Buffer",
+      "③": "Selector",
+      "④": "Scanner"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 43,
+    "question": "FileChannel 클래스의 주요 용도는?",
+    "choices": {
+      "①": "파일 탐색",
+      "②": "파일 경로 검색",
+      "③": "파일 읽기/쓰기",
+      "④": "파일 정렬"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 44,
+    "question": "WatchService 인터페이스의 용도는?",
+    "choices": {
+      "①": "파일 변경 감지",
+      "②": "네트워크 요청 처리",
+      "③": "스트림 필터링",
+      "④": "파일 포맷 변환"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 45,
+    "question": "버퍼(Buffer)의 특징으로 옳지 않은 것은?",
+    "choices": {
+      "①": "데이터를 직접 저장한다",
+      "②": "데이터 입출력을 더 빠르게 한다",
+      "③": "선입선출(FIFO)을 보장한다",
+      "④": "NIO에서 필수적으로 사용된다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 46,
+    "question": "Java에서 컬렉션 프레임워크(Collection Framework)의 주된 목적은?",
+    "choices": {
+      "①": "정렬 알고리즘 제공",
+      "②": "자료 구조와 알고리즘 제공",
+      "③": "파일 시스템 관리",
+      "④": "네트워크 통신 지원"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 47,
+    "question": "중복을 허용하지 않는 컬렉션은?",
+    "choices": {
+      "①": "ArrayList",
+      "②": "HashSet",
+      "③": "LinkedList",
+      "④": "Vector"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 48,
+    "question": "키와 값을 쌍으로 저장하는 컬렉션은?",
+    "choices": {
+      "①": "HashMap",
+      "②": "HashSet",
+      "③": "ArrayList",
+      "④": "Stack"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 49,
+    "question": "다음 중 List 인터페이스를 구현한 클래스가 아닌 것은?",
+    "choices": {
+      "①": "ArrayList",
+      "②": "LinkedList",
+      "③": "HashSet",
+      "④": "Vector"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 50,
+    "question": "다음 중 동기화를 지원하는 List 클래스는?",
+    "choices": {
+      "①": "ArrayList",
+      "②": "LinkedList",
+      "③": "HashMap",
+      "④": "Vector"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 51,
+    "question": "Java 스트림(Stream)의 가장 큰 특징은?",
+    "choices": {
+      "①": "데이터를 직접 저장한다",
+      "②": "병렬 처리 불가능",
+      "③": "데이터를 순차적으로 처리한다",
+      "④": "기본 자료형만 처리 가능하다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 52,
+    "question": "Stream API에서 중간 연산(Mid operation)이 아닌 것은?",
+    "choices": {
+      "①": "filter()",
+      "②": "map()",
+      "③": "sorted()",
+      "④": "forEach()"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 53,
+    "question": "다음 중 최종 연산(Terminal operation)에 해당하는 메서드는?",
+    "choices": {
+      "①": "map()",
+      "②": "limit()",
+      "③": "collect()",
+      "④": "distinct()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 54,
+    "question": "Java의 스트림 파이프라인 구성 순서로 올바른 것은?",
+    "choices": {
+      "①": "최종 연산 → 중간 연산 → 소스",
+      "②": "소스 → 중간 연산 → 최종 연산",
+      "③": "중간 연산 → 소스 → 최종 연산",
+      "④": "소스 → 최종 연산 → 중간 연산"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 55,
+    "question": "스트림의 distinct() 메서드가 수행하는 기능은?",
+    "choices": {
+      "①": "null 제거",
+      "②": "요소 정렬",
+      "③": "중복 제거",
+      "④": "요소 변환"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 56,
+    "question": "Java에서 스레드를 생성하는 방법으로 올바른 것은?",
+    "choices": {
+      "①": "Runnable 인터페이스 구현",
+      "②": "Object 클래스 상속",
+      "③": "ThreadManager 사용",
+      "④": "main() 메서드 내부 정의"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 57,
+    "question": "스레드의 상태 변화와 가장 관련 있는 메서드는?",
+    "choices": {
+      "①": "hashCode()",
+      "②": "runFinalizer()",
+      "③": "start()",
+      "④": "equals()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 58,
+    "question": "두 개 이상의 스레드가 하나의 자원을 공유할 때 발생할 수 있는 문제는?",
+    "choices": {
+      "①": "NullPointerException",
+      "②": "데이터 경합(Race Condition)",
+      "③": "컴파일 오류",
+      "④": "Stack Overflow"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 59,
+    "question": "스레드 간의 동기화를 위해 사용하는 키워드는?",
+    "choices": {
+      "①": "volatile",
+      "②": "transient",
+      "③": "synchronized",
+      "④": "instanceof"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 60,
+    "question": "Thread 클래스의 run() 메서드는 무엇을 수행하는가?",
+    "choices": {
+      "①": "스레드를 중지시킨다",
+      "②": "스레드의 실행 코드를 정의한다",
+      "③": "스레드를 종료한다",
+      "④": "스레드를 대기 상태로 만든다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 61,
+    "question": "JDBC의 주요 목적은?",
+    "choices": {
+      "①": "네트워크 통신을 처리하기 위해",
+      "②": "웹 페이지를 렌더링하기 위해",
+      "③": "Java와 데이터베이스를 연동하기 위해",
+      "④": "Java 프로그램을 컴파일하기 위해"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 62,
+    "question": "JDBC에서 DB 연결을 위한 클래스는?",
+    "choices": {
+      "①": "Statement",
+      "②": "ResultSet",
+      "③": "Connection",
+      "④": "PreparedStatement"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 63,
+    "question": "SELECT 쿼리 결과를 저장하고 순회하기 위한 JDBC 객체는?",
+    "choices": {
+      "①": "Connection",
+      "②": "ResultSet",
+      "③": "Statement",
+      "④": "Driver"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 64,
+    "question": "SQL 문을 미리 컴파일하고 파라미터를 설정할 수 있는 객체는?",
+    "choices": {
+      "①": "PreparedStatement",
+      "②": "ResultSet",
+      "③": "Statement",
+      "④": "DriverManager"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 65,
+    "question": "JDBC에서 데이터베이스 연결을 위한 URL의 형식은?",
+    "choices": {
+      "①": "jdbc:dbms://host:port/dbname",
+      "②": "dbms:jdbc://host:port/dbname",
+      "③": "jdbc://host:port/dbname",
+      "④": "dbms://jdbc:host:port/dbname"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 66,
+    "question": "Java에서 패키지를 논리적으로 묶어 관리하는 단위는?",
+    "choices": {
+      "①": "라이브러리",
+      "②": "클래스",
+      "③": "모듈",
+      "④": "메서드"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 67,
+    "question": "모듈 시스템의 도입으로 기대할 수 있는 효과가 아닌 것은?",
+    "choices": {
+      "①": "코드 캡슐화",
+      "②": "애플릿 실행",
+      "③": "의존성 명확화",
+      "④": "어플리케이션 크기 축소"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 68,
+    "question": "Java 모듈 시스템에서 사용되는 선언 파일 이름은?",
+    "choices": {
+      "①": "module.config",
+      "②": "module-info.java",
+      "③": "package-info.java",
+      "④": "mod-info.class"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 69,
+    "question": "다음 중 Java 표준 모듈이 아닌 것은?",
+    "choices": {
+      "①": "java.base",
+      "②": "java.sql",
+      "③": "java.desktop",
+      "④": "java.oracle"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 70,
+    "question": "module-info.java 파일에서 다른 모듈을 사용할 때 쓰는 키워드는?",
+    "choices": {
+      "①": "include",
+      "②": "uses",
+      "③": "requires",
+      "④": "depends"
+    },
+    "correct_answer": "③"
+  }
+]

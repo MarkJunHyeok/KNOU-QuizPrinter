@@ -1,0 +1,497 @@
+[
+  {
+    "question_number": 1,
+    "question": "지식정보화 사회에서 가장 중요하게 요구되는 능력은?",
+    "choices": {
+      "①": "문서 작성 능력",
+      "②": "통계 패키지 개발 능력",
+      "③": "데이터 분석 능력",
+      "④": "프로그래밍 언어 능력"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 2,
+    "question": "데이터 분석 절차의 첫 번째 단계는?",
+    "choices": {
+      "①": "분석결과의 평가",
+      "②": "데이터의 정리 및 분석",
+      "③": "문제의 정의",
+      "④": "데이터의 수집"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 3,
+    "question": "다음 중 데이터 분석 소프트웨어로 가장 거리가 먼 것은?",
+    "choices": {
+      "①": "R",
+      "②": "SAS",
+      "③": "SPSS",
+      "④": "Photoshop"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 4,
+    "question": "데이터 분석을 위한 과학적 방법을 연구하는 학문은?",
+    "choices": {
+      "①": "정보학",
+      "②": "통계학",
+      "③": "컴퓨터공학",
+      "④": "데이터마이닝"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 5,
+    "question": "다음 중 SPSS의 특징이 아닌 것은?",
+    "choices": {
+      "①": "GUI 환경에서 작동된다",
+      "②": "스프레드시트 형태의 입력을 지원한다",
+      "③": "프로그래밍 전용 도구이다",
+      "④": "분석 절차를 대화형으로 제공한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 6,
+    "question": "다음 중 데이터의 정의로 가장 적절한 것은?",
+    "choices": {
+      "①": "해석된 정보",
+      "②": "숫자만으로 구성된 값",
+      "③": "현상을 설명하기 위한 사실이나 수치",
+      "④": "시각적 이미지"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 7,
+    "question": "측정 수준 중 순서만 있고 간격이 일정하지 않은 것은?",
+    "choices": {
+      "①": "명목척도",
+      "②": "서열척도",
+      "③": "등간척도",
+      "④": "비율척도"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 8,
+    "question": "명목척도의 예로 적절한 것은?",
+    "choices": {
+      "①": "등수",
+      "②": "소득",
+      "③": "성별",
+      "④": "온도"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 9,
+    "question": "데이터 입력 시 주의할 점으로 가장 거리가 먼 것은?",
+    "choices": {
+      "①": "입력 오류 방지",
+      "②": "값의 유효성 점검",
+      "③": "중복된 데이터 허용",
+      "④": "자료 형식 일치"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 10,
+    "question": "결측값을 처리하는 일반적인 방법이 아닌 것은?",
+    "choices": {
+      "①": "평균 대체",
+      "②": "중앙값 대체",
+      "③": "임의의 값으로 대체",
+      "④": "값을 무작위로 생성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 11,
+    "question": "공신력 있는 통계정보를 제공하는 국내 기관으로 적절한 것은?",
+    "choices": {
+      "①": "국세청",
+      "②": "한국은행",
+      "③": "통계청",
+      "④": "KBS"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 12,
+    "question": "웹을 활용한 통계분석의 장점으로 적절하지 않은 것은?",
+    "choices": {
+      "①": "실시간 정보 획득",
+      "②": "데이터 자동 수집",
+      "③": "데이터 품질 완전 보장",
+      "④": "다양한 형태의 자료 접근"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 13,
+    "question": "연속형 자료의 예로 적절한 것은?",
+    "choices": {
+      "①": "성별",
+      "②": "혈액형",
+      "③": "몸무게",
+      "④": "지역"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 14,
+    "question": "다음 중 기술통계에 해당하는 것은?",
+    "choices": {
+      "①": "표본추출",
+      "②": "회귀분석",
+      "③": "평균 계산",
+      "④": "가설검정"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 15,
+    "question": "통계정보 검색 시 가장 먼저 고려해야 할 사항은?",
+    "choices": {
+      "①": "자료 크기",
+      "②": "자료 수집 연도",
+      "③": "자료의 신뢰성",
+      "④": "자료 저장 형식"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 16,
+    "question": "한글 2018에서 문서 편집을 위해 가장 먼저 설정해야 할 항목은?",
+    "choices": {
+      "①": "인쇄 여백",
+      "②": "표 삽입",
+      "③": "글자 색상",
+      "④": "수식 입력"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 17,
+    "question": "한글 문서에서 표를 삽입할 수 있는 메뉴는?",
+    "choices": {
+      "①": "파일",
+      "②": "편집",
+      "③": "입력",
+      "④": "보기"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 18,
+    "question": "수식 입력 도구의 주된 목적은?",
+    "choices": {
+      "①": "그림 그리기",
+      "②": "수학적 표현 작성",
+      "③": "폰트 설정",
+      "④": "도형 삽입"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 19,
+    "question": "문서 편집 시 글자 모양 설정 항목이 아닌 것은?",
+    "choices": {
+      "①": "글자 크기",
+      "②": "글자 방향",
+      "③": "글자 색상",
+      "④": "글자 간격"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 20,
+    "question": "한글 2018에서 문서 인쇄를 위해 먼저 확인해야 할 사항은?",
+    "choices": {
+      "①": "파일명",
+      "②": "글자수",
+      "③": "페이지 설정",
+      "④": "파일 크기"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 21,
+    "question": "엑셀에서 셀 간의 관계를 나타내기 위한 기본 단위는?",
+    "choices": {
+      "①": "시트",
+      "②": "셀 참조",
+      "③": "워크북",
+      "④": "그래프"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 22,
+    "question": "엑셀에서 함수를 입력할 때 항상 앞에 입력해야 하는 기호는?",
+    "choices": {
+      "①": "=",
+      "②": "#",
+      "③": "@",
+      "④": "$"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 23,
+    "question": "다음 중 셀의 내용을 자동으로 복사할 수 있는 기능은?",
+    "choices": {
+      "①": "정렬",
+      "②": "조건부 서식",
+      "③": "자동 채우기",
+      "④": "필터"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 24,
+    "question": "엑셀 함수 중 평균을 구하는 함수는?",
+    "choices": {
+      "①": "SUM()",
+      "②": "COUNT()",
+      "③": "AVERAGE()",
+      "④": "MAX()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 25,
+    "question": "엑셀에서 셀을 병합하려면 어떤 기능을 사용해야 하는가?",
+    "choices": {
+      "①": "서식 복사",
+      "②": "병합 및 가운데 맞춤",
+      "③": "조건부 서식",
+      "④": "정렬"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 26,
+    "question": "엑셀에서 데이터의 전체 분포를 한눈에 보기 위해 사용하는 그래프는?",
+    "choices": {
+      "①": "막대그래프",
+      "②": "히스토그램",
+      "③": "원그래프",
+      "④": "꺾은선그래프"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 27,
+    "question": "카테고리별 비율을 시각화할 때 가장 적절한 그래프는?",
+    "choices": {
+      "①": "히스토그램",
+      "②": "산점도",
+      "③": "원그래프",
+      "④": "꺾은선그래프"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 28,
+    "question": "시간의 흐름에 따른 데이터 변화 시각화에 적절한 그래프는?",
+    "choices": {
+      "①": "막대그래프",
+      "②": "원그래프",
+      "③": "꺾은선그래프",
+      "④": "사각형그래프"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 29,
+    "question": "두 변수 간의 관계를 시각화할 때 적합한 그래프는?",
+    "choices": {
+      "①": "히스토그램",
+      "②": "산점도",
+      "③": "막대그래프",
+      "④": "원그래프"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 30,
+    "question": "엑셀 그래프 작성 시 '차트 요소 추가'에서 설정할 수 없는 것은?",
+    "choices": {
+      "①": "축 제목",
+      "②": "데이터 계열",
+      "③": "페이지 여백",
+      "④": "범례"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 31,
+    "question": "엑셀에서 수식 계산 시 셀 참조 방식 중 절대참조의 예는?",
+    "choices": {
+      "①": "A1",
+      "②": "$A$1",
+      "③": "A$1",
+      "④": "$A1"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 32,
+    "question": "엑셀에서 현재 날짜를 반환하는 함수는?",
+    "choices": {
+      "①": "NOW()",
+      "②": "DATE()",
+      "③": "TODAY()",
+      "④": "TIME()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 33,
+    "question": "엑셀에서 텍스트 길이를 반환하는 함수는?",
+    "choices": {
+      "①": "FIND()",
+      "②": "LEN()",
+      "③": "LEFT()",
+      "④": "MID()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 34,
+    "question": "함수 그래프를 그릴 때 필요한 요소가 아닌 것은?",
+    "choices": {
+      "①": "수식 입력",
+      "②": "데이터 테이블 작성",
+      "③": "차트 삽입",
+      "④": "조건부 서식"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 35,
+    "question": "엑셀에서 적분 계산과 가장 관련 깊은 도구는?",
+    "choices": {
+      "①": "정렬 기능",
+      "②": "차트 요소",
+      "③": "그래프와 면적 계산",
+      "④": "필터 기능"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 36,
+    "question": "R 언어의 주요 특징으로 옳지 않은 것은?",
+    "choices": {
+      "①": "오픈소스이다",
+      "②": "데이터 분석과 통계 기능이 강력하다",
+      "③": "웹 기반 전용 언어이다",
+      "④": "그래픽 출력 기능이 우수하다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 37,
+    "question": "R에서 데이터를 저장하는 기본 단위는?",
+    "choices": {
+      "①": "배열(array)",
+      "②": "벡터(vector)",
+      "③": "테이블(table)",
+      "④": "리스트(list)"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 38,
+    "question": "R에서 평균을 구하는 함수는?",
+    "choices": {
+      "①": "mean()",
+      "②": "sum()",
+      "③": "avg()",
+      "④": "average()"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 39,
+    "question": "R에서 데이터프레임을 생성할 때 사용하는 함수는?",
+    "choices": {
+      "①": "array()",
+      "②": "matrix()",
+      "③": "data.frame()",
+      "④": "frame()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 40,
+    "question": "R에서 help(mean) 명령어의 기능은?",
+    "choices": {
+      "①": "mean 함수의 예제를 실행한다",
+      "②": "mean 함수의 그래프를 그린다",
+      "③": "mean 함수의 도움말을 출력한다",
+      "④": "mean 함수의 결과를 저장한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 41,
+    "question": "파이썬의 주요 특징이 아닌 것은?",
+    "choices": {
+      "①": "간결한 문법",
+      "②": "인터프리터 언어",
+      "③": "웹 전용 언어",
+      "④": "오픈소스"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 42,
+    "question": "파이썬에서 데이터를 분석하기 위해 가장 널리 사용되는 라이브러리는?",
+    "choices": {
+      "①": "numpy",
+      "②": "pandas",
+      "③": "math",
+      "④": "os"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 43,
+    "question": "다음 중 파이썬에서 리스트를 생성하는 문법으로 올바른 것은?",
+    "choices": {
+      "①": "list = (1, 2, 3)",
+      "②": "list = {1, 2, 3}",
+      "③": "list = [1, 2, 3]",
+      "④": "list = <1, 2, 3>"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 44,
+    "question": "pandas에서 데이터프레임을 생성하는 함수는?",
+    "choices": {
+      "①": "Data()",
+      "②": "DataFrame()",
+      "③": "Frame()",
+      "④": "df()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 45,
+    "question": "파이썬에서 평균을 구하는 numpy 함수는?",
+    "choices": {
+      "①": "np.sum()",
+      "②": "np.mean()",
+      "③": "np.average()",
+      "④": "np.total()"
+    },
+    "correct_answer": "②"
+  }
+]

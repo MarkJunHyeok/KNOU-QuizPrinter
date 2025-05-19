@@ -1,0 +1,827 @@
+[
+  {
+    "question_number": 1,
+    "question": "컴퓨터가 정보를 처리하기 위해 사용하는 숫자 체계는?",
+    "choices": {
+      "①": "십진수",
+      "②": "이진수",
+      "③": "팔진수",
+      "④": "십육진수"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 2,
+    "question": "다음 중 데이터의 정의로 가장 적절한 것은?",
+    "choices": {
+      "①": "개인의 경험",
+      "②": "정리된 결과",
+      "③": "관찰이나 실험, 조사로 얻은 사실",
+      "④": "추론된 결론"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 3,
+    "question": "프로그램이란 무엇인가?",
+    "choices": {
+      "①": "하드웨어의 일종",
+      "②": "수동 명령어 모음",
+      "③": "컴퓨터가 자동 수행할 수 있는 명령어 모음",
+      "④": "인터넷 사용 설명서"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 4,
+    "question": "알고리즘의 정의로 올바른 것은?",
+    "choices": {
+      "①": "반복 실행",
+      "②": "단계별 절차의 집합",
+      "③": "데이터 저장구조",
+      "④": "하드웨어 제어 기법"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 5,
+    "question": "파이썬은 어떤 프로그래밍 언어인가?",
+    "choices": {
+      "①": "컴파일 언어",
+      "②": "기계어",
+      "③": "셸 스크립트 언어",
+      "④": "인터프리터 언어"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 6,
+    "question": "입력 장치가 하는 주된 역할은?",
+    "choices": {
+      "①": "명령 수행",
+      "②": "연산 처리",
+      "③": "출력 결과 생성",
+      "④": "명령과 데이터를 컴퓨터에 전달"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 7,
+    "question": "다음 중 컴퓨터의 기본 구성 요소가 아닌 것은?",
+    "choices": {
+      "①": "연산 장치",
+      "②": "제어 장치",
+      "③": "알고리즘 장치",
+      "④": "기억 장치"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 8,
+    "question": "ROM의 특징으로 올바른 것은?",
+    "choices": {
+      "①": "전원이 꺼지면 내용이 사라짐",
+      "②": "주기억장치",
+      "③": "전원이 꺼져도 내용 보존",
+      "④": "프로그램 저장 불가능"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 9,
+    "question": "다음 중 보조기억장치로 분류되는 것은?",
+    "choices": {
+      "①": "RAM",
+      "②": "레지스터",
+      "③": "SSD",
+      "④": "제어장치"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 10,
+    "question": "제어장치와 연산장치를 통합한 장치는?",
+    "choices": {
+      "①": "GPU",
+      "②": "HDD",
+      "③": "CPU",
+      "④": "SSD"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 11,
+    "question": "파이썬을 만든 사람은 누구인가?",
+    "choices": {
+      "①": "데니스 리치",
+      "②": "히도 판 로섬",
+      "③": "제임스 고슬링",
+      "④": "래리 월"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 12,
+    "question": "파이썬의 특징이 아닌 것은?",
+    "choices": {
+      "①": "객체지향 지원",
+      "②": "빠른 컴파일 속도",
+      "③": "다양한 패러다임 지원",
+      "④": "직관적인 문법"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 13,
+    "question": "파이썬 실행 방식으로 맞는 것은?",
+    "choices": {
+      "①": "소스코드를 직접 기계어로 번역",
+      "②": "바이트코드로 컴파일 후 가상머신이 실행",
+      "③": "한 줄씩 직접 기계어 실행",
+      "④": "셸 명령어로 변환"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 14,
+    "question": "파이썬이 사용하는 기본 실행 환경은?",
+    "choices": {
+      "①": "JVM",
+      "②": "CLR",
+      "③": "PVM",
+      "④": "LLVM"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 15,
+    "question": "파이썬의 문서화 도구 및 스타일 가이드로 올바른 것은?",
+    "choices": {
+      "①": "PIP",
+      "②": "PEP",
+      "③": "PEK",
+      "④": "PNP"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 16,
+    "question": "정수형 데이터를 의미하는 용어는?",
+    "choices": {
+      "①": "float",
+      "②": "str",
+      "③": "int",
+      "④": "char"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 17,
+    "question": "산술 연산자 중 거듭제곱을 의미하는 것은?",
+    "choices": {
+      "①": "//",
+      "②": "^",
+      "③": "**",
+      "④": "%"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 18,
+    "question": "다음 중 문자열을 출력하는 내장 함수는?",
+    "choices": {
+      "①": "output()",
+      "②": "write()",
+      "③": "print()",
+      "④": "str()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 19,
+    "question": "들여쓰기에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "①": "블록을 구분하는 역할",
+      "②": "스페이스 4칸이 권장",
+      "③": "선택사항이다",
+      "④": "PEP-8 가이드에 따라 사용"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 20,
+    "question": "주석을 여러 줄로 달 때 사용하는 기호는?",
+    "choices": {
+      "①": "#",
+      "②": "/**/",
+      "③": "\"\"\"",
+      "④": "//"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 21,
+    "question": "구조적 프로그래밍 패러다임에서 사용하는 세 가지 기본 제어 구조가 아닌 것은?",
+    "choices": {
+      "①": "순차 구조",
+      "②": "선택 구조",
+      "③": "반복 구조",
+      "④": "병렬 구조"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 22,
+    "question": "순차 구조에 대한 설명으로 올바른 것은?",
+    "choices": {
+      "①": "조건에 따라 실행 여부가 달라진다",
+      "②": "명령문이 반복해서 실행된다",
+      "③": "위에서 아래로 순서대로 실행된다",
+      "④": "무작위로 명령을 선택한다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 23,
+    "question": "다음 중 파이썬에서 사용자 입력을 받는 함수는?",
+    "choices": {
+      "①": "print()",
+      "②": "scan()",
+      "③": "input()",
+      "④": "enter()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 24,
+    "question": "다음 코드에서 오류가 발생하는 이유는?\n\n```\nrad = input(\"반지름:\")\nhei = input(\"높이:\")\nvol = 1/3 * 3.14 * rad ** 2 * hei\nprint(vol)\n```",
+    "choices": {
+      "①": "input이 없어서",
+      "②": "곱셈 연산자 오류",
+      "③": "rad와 hei가 문자열이라서",
+      "④": "print 구문 오류"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 25,
+    "question": "다음 중 데이터 타입을 정수형으로 바꾸는 함수는?",
+    "choices": {
+      "①": "float()",
+      "②": "str()",
+      "③": "int()",
+      "④": "input()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 26,
+    "question": "다음 중 조건문의 기본 구조로 알맞은 것은?",
+    "choices": {
+      "①": "if 조건 then",
+      "②": "if 조건:",
+      "③": "if(조건)",
+      "④": "if 조건 {}"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 27,
+    "question": "다음 중 불리언 타입의 결과로 나타나는 값은?",
+    "choices": {
+      "①": "3.14",
+      "②": "\"True\"",
+      "③": "True",
+      "④": "1"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 28,
+    "question": "비교 연산자 중 **'같다'**를 나타내는 것은?",
+    "choices": {
+      "①": "=",
+      "②": "==",
+      "③": "!=",
+      "④": "equals"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 29,
+    "question": "다음 중 논리 AND 연산자의 진리표로 올바른 것은?",
+    "choices": {
+      "①": "True and False = True",
+      "②": "False and False = True",
+      "③": "True and True = True",
+      "④": "True and False = True"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 30,
+    "question": "다음 중 논리 OR 연산자에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "①": "두 값이 모두 False일 때만 True",
+      "②": "하나라도 True이면 True",
+      "③": "항상 False 반환",
+      "④": "조건이 없으면 True"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 31,
+    "question": "다음 중 while 반복문의 올바른 기본 구조는?",
+    "choices": {
+      "①": "while 조건 {}",
+      "②": "while 조건 do:",
+      "③": "while 조건:",
+      "④": "while (조건);"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 32,
+    "question": "다음 코드의 실행 결과로 출력되는 횟수는?\n\n```\nmsg = \"파이썬\"\ncount = 1\nwhile count <= 3:\n    print(msg)\n    count += 1\n```",
+    "choices": {
+      "①": "1번",
+      "②": "2번",
+      "③": "3번",
+      "④": "무한반복"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 33,
+    "question": "무한 루프를 구성하는 방법 중 알맞은 것은?",
+    "choices": {
+      "①": "for i in range(∞):",
+      "②": "while False:",
+      "③": "while True:",
+      "④": "repeat until True"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 34,
+    "question": "반복문의 제어를 위해 사용되는 키워드는?",
+    "choices": {
+      "①": "loop",
+      "②": "stop",
+      "③": "continue",
+      "④": "run"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 35,
+    "question": "다음 중 리스트의 항목을 반복 출력하는 코드로 올바른 것은?",
+    "choices": {
+      "①": "for i in range(list):",
+      "②": "for item in list:",
+      "③": "while item in list:",
+      "④": "repeat list:"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 36,
+    "question": "파이썬에서 기본적으로 제공되는 함수는?",
+    "choices": {
+      "①": "사용자 정의 함수",
+      "②": "내장 함수",
+      "③": "확장 함수",
+      "④": "외부 함수"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 37,
+    "question": "구조적 프로그래밍에서 제안한 제어 구조가 아닌 것은?",
+    "choices": {
+      "①": "순차",
+      "②": "선택",
+      "③": "반복",
+      "④": "재귀"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 38,
+    "question": "다음 코드의 실행 결과는?\n\n```\nmsg = \"Hello\"\ncount = 1\nwhile count <= 2:\n    print(msg)\n    count += 1\n```",
+    "choices": {
+      "①": "출력 없음",
+      "②": "1번 출력",
+      "③": "2번 출력",
+      "④": "무한 반복"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 39,
+    "question": "다음 중 파이썬의 실행 구조에서 소스코드가 직접 변환되는 중간 형태는?",
+    "choices": {
+      "①": "자바코드",
+      "②": "바이트코드",
+      "③": "드레스코드",
+      "④": "스크립트"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 40,
+    "question": "다음 중 리스트에서 특정 항목의 값을 변경하는 올바른 표현은?\n\n```\nbody = [181, 78, \"brown\", \"black\"]\n```",
+    "choices": {
+      "①": "body(3) = \"purple\"",
+      "②": "body = \"purple\"",
+      "③": "body[3] = \"purple\"",
+      "④": "body = [\"purple\"]"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 41,
+    "question": "다음 중 함수를 정의하는 키워드는?",
+    "choices": {
+      "①": "def",
+      "②": "func",
+      "③": "define",
+      "④": "method"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 42,
+    "question": "함수에서 반환 값을 지정하는 키워드는?",
+    "choices": {
+      "①": "return",
+      "②": "output",
+      "③": "back",
+      "④": "exit"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 43,
+    "question": "매개변수를 가변적으로 받을 수 있는 구문은?",
+    "choices": {
+      "①": "def f(a, b, c=3)",
+      "②": "def f(*args)",
+      "③": "def f(*kwargs)",
+      "④": "def f(args)"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 44,
+    "question": "다음 중 재귀 호출이 일어나는 함수는?",
+    "choices": {
+      "①": "f(3 + 1)",
+      "②": "f(x) = x + 1",
+      "③": "def f(): return f()",
+      "④": "def f(): print(\"Hello\")"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 45,
+    "question": "함수에서 아무 return 없이 종료된 경우 기본 반환값은?",
+    "choices": {
+      "①": "0",
+      "②": "False",
+      "③": "None",
+      "④": "''"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 46,
+    "question": "다음 중 **객체 지향 프로그래밍(OOP)**의 핵심 개념이 아닌 것은?",
+    "choices": {
+      "①": "추상화",
+      "②": "캡슐화",
+      "③": "상속",
+      "④": "순차화"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 47,
+    "question": "클래스에서 객체 자신을 참조하는 매개변수는?",
+    "choices": {
+      "①": "this",
+      "②": "me",
+      "③": "self",
+      "④": "obj"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 48,
+    "question": "생성자 메서드를 정의할 때 사용하는 이름은?",
+    "choices": {
+      "①": "def init()",
+      "②": "def create()",
+      "③": "def init()",
+      "④": "def start()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 49,
+    "question": "다음 중 클래스에서 **속성(데이터 필드)**을 정의하는 방법은?",
+    "choices": {
+      "①": "def a(): pass",
+      "②": "print(name)",
+      "③": "self.name = \"John\"",
+      "④": "class name: pass"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 50,
+    "question": "다음 코드에서 r1은 어떤 역할을 하는가?\n\n```\nclass Robot:\n    def __init__(self, name):\n        self.name = name\n\nr1 = Robot(\"android1\")\n```",
+    "choices": {
+      "①": "클래스 변수",
+      "②": "인스턴스",
+      "③": "메서드",
+      "④": "상속 클래스"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 51,
+    "question": "다음 중 math 모듈을 사용하는 올바른 방법은?",
+    "choices": {
+      "①": "from math import sin, radians",
+      "②": "import math.sin",
+      "③": "from sin, radians import math",
+      "④": "use math module"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 52,
+    "question": "다음 중 모듈에 대한 설명으로 올바른 것은?",
+    "choices": {
+      "①": "프로그램을 실행시키는 인터프리터",
+      "②": "변수를 저장하는 저장 공간",
+      "③": "함수, 상수, 클래스를 모아 놓은 파일",
+      "④": "사용자 입력을 받는 인터페이스"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 53,
+    "question": "random 모듈에서 특정 범위의 정수를 생성하는 함수는?",
+    "choices": {
+      "①": "randint()",
+      "②": "random()",
+      "③": "seed()",
+      "④": "sort()"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 54,
+    "question": "모듈의 사용 여부를 확인할 수 있는 함수는?",
+    "choices": {
+      "①": "check()",
+      "②": "dir()",
+      "③": "sys()",
+      "④": "info()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 55,
+    "question": "time.sleep(3)의 의미는?",
+    "choices": {
+      "①": "3초 후 현재 시간 출력",
+      "②": "현재 프로세스를 3초간 일시 중지",
+      "③": "시스템을 종료",
+      "④": "3초마다 반복 실행"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 56,
+    "question": "다음 중 파일을 읽기 모드로 여는 구문은?",
+    "choices": {
+      "①": "open(\"data.txt\", \"w\")",
+      "②": "open(\"data.txt\", \"r\")",
+      "③": "open(\"data.txt\", \"a\")",
+      "④": "open(\"data.txt\", \"x\")"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 57,
+    "question": "readlines() 함수의 반환값으로 올바른 것은?",
+    "choices": {
+      "①": "하나의 문자열",
+      "②": "정수형 리스트",
+      "③": "문자열 리스트",
+      "④": "문자열 튜플"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 58,
+    "question": "파일을 연 후 작업이 끝나면 반드시 호출해야 하는 함수는?",
+    "choices": {
+      "①": "end()",
+      "②": "return()",
+      "③": "close()",
+      "④": "finish()"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 59,
+    "question": "다음 코드에서 strip() 함수의 역할은?\n\n```\nline = \" Hello\\n\"\nprint(line.strip())\n```",
+    "choices": {
+      "①": "공백과 개행을 제거",
+      "②": "모든 문자를 제거",
+      "③": "공백만 제거",
+      "④": "줄을 리스트로 반환"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 60,
+    "question": "딕셔너리에서 키가 존재하지 않으면 기본값을 반환하는 함수는?",
+    "choices": {
+      "①": "keys()",
+      "②": "get()",
+      "③": "pop()",
+      "④": "exists()"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 61,
+    "question": "이벤트 기반 프로그래밍(EDP)의 핵심 구성요소가 아닌 것은?",
+    "choices": {
+      "①": "이벤트 루프",
+      "②": "이벤트 핸들러",
+      "③": "이벤트 생성기",
+      "④": "게임 렌더러"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 62,
+    "question": "틱택토 게임에서 승리 조건은 무엇인가?",
+    "choices": {
+      "①": "세 칸 중 아무 곳이나 선택",
+      "②": "가로, 세로 또는 대각선에 동일 기호",
+      "③": "한 줄에 O, X 섞여 있으면 승리",
+      "④": "좌하단에서 우상단까지 두 칸"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 63,
+    "question": "틱택토에서 컴퓨터가 선택할 좌표는 일반적으로 어떻게 결정되는가?",
+    "choices": {
+      "①": "사용자가 직접 지정",
+      "②": "정해진 순서대로",
+      "③": "난수 생성으로 무작위 결정",
+      "④": "항상 중앙 선택"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 64,
+    "question": "게임 루프의 일반적 구성에 포함되지 않는 단계는?",
+    "choices": {
+      "①": "이벤트 검사",
+      "②": "게임 업데이트",
+      "③": "코드 컴파일",
+      "④": "화면 생성"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 65,
+    "question": "다음 중 EDP에서 이벤트 루프의 역할으로 적절한 것은?",
+    "choices": {
+      "①": "이벤트 발생을 무시",
+      "②": "이벤트를 검사하고 전달",
+      "③": "이벤트를 저장만 함",
+      "④": "게임 점수를 계산"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 66,
+    "question": "2차원 리스트에서 board[1][2]는 어떤 요소를 의미하는가?",
+    "choices": {
+      "①": "두 번째 행의 세 번째 열",
+      "②": "첫 번째 행의 두 번째 열",
+      "③": "세 번째 행의 두 번째 열",
+      "④": "전체 리스트"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 67,
+    "question": "다음 중 2차원 리스트를 생성하는 올바른 방식은?",
+    "choices": {
+      "①": "list(1, 2, 3)",
+      "②": "[[1, 2], [3, 4]]",
+      "③": "[1, [2, 3]]",
+      "④": "(1, 2, 3)"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 68,
+    "question": "중첩 반복문을 통해 2차원 리스트를 순회할 때, 가장 바깥쪽 루프는 무엇을 순회하는가?",
+    "choices": {
+      "①": "각 행",
+      "②": "각 열",
+      "③": "각 항목",
+      "④": "각 인덱스"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 69,
+    "question": "다음 중 2차원 리스트의 모든 항목을 한 줄씩 출력하는 코드 중 올바른 것은?\n\n```\nfor row in board:\n    for item in row:\n        print(item, end=\" \")\n    print()\n```",
+    "choices": {
+      "①": "출력 안 됨",
+      "②": "들여쓰기 없음",
+      "③": "잘못된 문법",
+      "④": "정답"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 70,
+    "question": "3x3 리스트의 대각선이 모두 \"X\"로 채워졌는지를 확인할 때, 사용할 수 있는 인덱스 조합은?",
+    "choices": {
+      "①": "[i][i]",
+      "②": "[i][2 - i]",
+      "③": "[3 - i][i]",
+      "④": "위의 모두"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 71,
+    "question": "유사한 유형의 문제를 해결할 수 있도록 특정 작업을 수행하는 명령문의 집합을 단일 식별자로 구성한 개념은?",
+    "choices": {
+      "①": "함수",
+      "②": "인터프리터",
+      "③": "파일",
+      "④": "명령블럭"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 72,
+    "question": "다음 중 line 클래스의 길이를 수정하는 올바른 방법은?\n\n```\nclass line:\n    def __init__(self, length):\n        self.__len = length\n    def set_length(self, length):\n        self.__len = length\n\nm = line(5)\n```",
+    "choices": {
+      "①": "m.len = 10",
+      "②": "m.__len = 10",
+      "③": "m.set_length(10)",
+      "④": "m.set_length( ) = 10"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 73,
+    "question": "math 모듈에서 sin()과 radians()를 사용하기 위한 올바른 import 구문은?",
+    "choices": {
+      "①": "import math.sin",
+      "②": "from sin, radians import math",
+      "③": "from math import sin, radians",
+      "④": "import math.sin, math.radians"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 74,
+    "question": "다음 중 특정 목적에 맞게 구성된 함수, 클래스, 상수의 집합으로 올바른 것은?",
+    "choices": {
+      "①": "모듈",
+      "②": "패키지",
+      "③": "라이브러리",
+      "④": "프레임워크"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 75,
+    "question": "객체와 객체 사이의 상호작용을 중심으로 프로그램을 구성하는 패러다임은?",
+    "choices": {
+      "①": "명령형 프로그래밍",
+      "②": "구조적 프로그래밍",
+      "③": "객체지향 프로그래밍",
+      "④": "함수형 프로그래밍"
+    },
+    "correct_answer": "③"
+  }
+]
