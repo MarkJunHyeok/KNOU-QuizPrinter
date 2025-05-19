@@ -1,0 +1,24 @@
+-.  문제 객체 구조
+// 문제의 선택지 타입
+type Choices = {
+  "①": string;
+  "②": string;
+  "③": string;
+  "④": string;
+};
+
+// 단일 문제 타입
+interface Question {
+  question_number: number;
+  question: string;
+  choices: Choices;
+  correct_answer: "①" | "②" | "③" | "④";
+}
+
+// 전체 문제 리스트 타입
+type QuestionList = Question[];
+-. 단원마다 7 문제씩
+-. 객관식
+-. 위 포맷으로 (참고로 json 형태이니 ""를 잘 넣어줘야 함)
+-. 모든 단원 다 만들어주기
+-. 정답 번호는 다 다르게 해줘 골고루 섞이게
