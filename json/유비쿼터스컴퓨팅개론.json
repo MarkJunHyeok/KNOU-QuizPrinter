@@ -1,0 +1,1157 @@
+[
+  {
+    "question_number": 1,
+    "question": "유비쿼터스 혁명은 물리공간과 전자공간을 융합하여 초연결 사회를 이끄는 변화를 의미한다. 다음 중 유비쿼터스 혁명의 핵심 특징이 아닌 것은?",
+    "choices": {
+      "①": "언제 어디서나 네트워크 접속 가능",
+      "②": "모든 사물이 고유한 식별자를 가짐",
+      "③": "단일 중앙 서버에 의존한 정보 처리",
+      "④": "사람-사물-컴퓨터가 실시간 상호작용"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 2,
+    "question": "도시혁명·산업혁명·인터넷혁명에 이어 유비쿼터스 혁명이 4번째 공간 혁명으로 불리는 이유는?",
+    "choices": {
+      "①": "오프라인 상거래를 촉진했기 때문",
+      "②": "공간 제약을 제거하며 서비스 융합을 이끌었기 때문",
+      "③": "인쇄술의 발달과 직접 관련이 있기 때문",
+      "④": "전력 소비를 급격히 줄였기 때문"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 3,
+    "question": "유비쿼터스 공간의 설명으로 옳은 것은?",
+    "choices": {
+      "①": "현실 사물에 내재된 컴퓨터가 없이도 구현된다",
+      "②": "사람-사물 간 통신이 자동화되어 있다",
+      "③": "정보 제공이 유선 네트워크에 한정된다",
+      "④": "사물마다 네트워크 주소 부여가 불필요하다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 4,
+    "question": "유비쿼터스 환경 구축 5대 연구 영역 중 '가시성(visibility)'과 가장 밀접한 개발 목표는?",
+    "choices": {
+      "①": "데이터 전송 지연 최소화",
+      "②": "사용자에게 직관적 인터페이스 제공",
+      "③": "네트워크 스루풋 극대화",
+      "④": "하드웨어 집적도 향상"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 5,
+    "question": "물리공간·전자공간·유비쿼터스 공간을 비교할 때, 유비쿼터스 공간만의 차별점으로 적절한 것은?",
+    "choices": {
+      "①": "만질 수 없는 가상 정보만 존재",
+      "②": "사물 식별·추적·제어가 한 공간 안에서 이뤄짐",
+      "③": "토목·건축 기술이 핵심 기반",
+      "④": "네트워크 인프라가 필요하지 않음"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 6,
+    "question": "다음 중 유비쿼터스 혁명으로 인한 사회 변화로 보기 어려운 것은?",
+    "choices": {
+      "①": "초연결성 기반 맞춤형 서비스 확산",
+      "②": "대량 생산체제의 등장",
+      "③": "메타버스 경제 활동 증가",
+      "④": "자율주행·스마트 로봇 보급"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 7,
+    "question": "유비쿼터스 공간에서 사물-컴퓨터-사람 간 상호작용을 설명할 때 사용되는 3가지 연계 차원에 포함되지 않는 것은?",
+    "choices": {
+      "①": "네트워크 연결성",
+      "②": "사물의 인식",
+      "③": "물리·전자 속성 간 양방향 상호작용",
+      "④": "브라우저 호환성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 8,
+    "question": "유비쿼터스 컴퓨팅(UbiComp)을 처음 제시한 연구소는 어디인가?",
+    "choices": {
+      "①": "MIT Media Lab",
+      "②": "Xerox PARC",
+      "③": "Bell Labs",
+      "④": "Intel Labs"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 9,
+    "question": "마크 와이저가 정의한 유비쿼터스 컴퓨팅 환경의 핵심 조건으로 보기 어려운 것은?",
+    "choices": {
+      "①": "네트워크 상시 연결",
+      "②": "보이지 않는 인터페이스",
+      "③": "인간 중심 맞춤 서비스",
+      "④": "단일 거대 메인프레임 의존"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 10,
+    "question": "유비쿼터스 컴퓨팅의 기술 전개 환경에서 하드웨어 초소형화와 직접 연관되는 기술은?",
+    "choices": {
+      "①": "MEMS",
+      "②": "DSL",
+      "③": "COBOL",
+      "④": "SMTP"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 11,
+    "question": "유비쿼터스 환경 구현 5대 컴퓨터 기술 영역 중 '추상화(abstraction)'가 주로 다루는 목표는?",
+    "choices": {
+      "①": "네트워크 대역폭 확보",
+      "②": "사용자-상황 기반 서비스 개인화",
+      "③": "고성능·고집적 컴퓨팅 자원 가상화",
+      "④": "인터페이스 투명성 제거"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 12,
+    "question": "근거리 무선통신(NFC)의 표준 주파수 대역은?",
+    "choices": {
+      "①": "2.4 GHz",
+      "②": "5 GHz",
+      "③": "13.56 MHz",
+      "④": "60 GHz"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 13,
+    "question": "다음 중 유비쿼터스 컴퓨팅 시대에 성장 동인으로 제시된 기술이 아닌 것은?",
+    "choices": {
+      "①": "딥러닝 기반 인공지능",
+      "②": "클라우드 컴퓨팅",
+      "③": "아날로그 텔레타이프",
+      "④": "스마트 자동차"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 14,
+    "question": "유비쿼터스 환경 패러다임 변화를 설명할 때 'Post-PC' 시대란 무엇을 지칭하는가?",
+    "choices": {
+      "①": "PC 사용이 완전히 중단된 시대",
+      "②": "모바일·임베디드 기기가 주 컴퓨팅 플랫폼이 되는 시대",
+      "③": "네트워크가 없는 오프라인 시대",
+      "④": "메인프레임 회귀 시대"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 15,
+    "question": "가상현실(VR)과 증강현실(AR)을 구분할 때, AR의 핵심 특징은?",
+    "choices": {
+      "①": "사용자를 완전히 가상 공간에 몰입시킨다",
+      "②": "현실 공간 위에 정보·객체를 겹쳐 보여준다",
+      "③": "그래픽 처리 없이 텍스트만 출력한다",
+      "④": "오프라인 상태에서만 동작한다"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 16,
+    "question": "메타버스를 구성하는 4대 플랫폼 유형에 포함되지 않는 것은?",
+    "choices": {
+      "①": "가상세계형",
+      "②": "라이프 로깅형",
+      "③": "미러 월드형",
+      "④": "단문 메시지형"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 17,
+    "question": "메타버스 환경에서 경제 활동이 가능하도록 지원하는 대표 기술은?",
+    "choices": {
+      "①": "블록체인",
+      "②": "SMTP",
+      "③": "FTP",
+      "④": "ISBN"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 18,
+    "question": "가상성의 연속성 모형에서 현실과 가상이 50:50으로 혼합된 영역을 주로 무엇이라 하는가?",
+    "choices": {
+      "①": "증강현실",
+      "②": "증강가상",
+      "③": "혼합현실",
+      "④": "순수 가상현실"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 19,
+    "question": "VR 구현 장치 중 시야를 차단하여 완전 몰입을 제공하는 대표 HMD 장비는?",
+    "choices": {
+      "①": "스마트 글래스",
+      "②": "CAVE 시스템",
+      "③": "360° 카메라",
+      "④": "데스크톱 모니터"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 20,
+    "question": "AR 기반 모바일 게임 '포켓몬 GO'가 활용한 핵심 기술이 아닌 것은?",
+    "choices": {
+      "①": "GPS 위치 기반 서비스",
+      "②": "실시간 영상 오버레이",
+      "③": "근거리 NFC 결제",
+      "④": "클라우드 서버 동기화"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 21,
+    "question": "VR·AR·MR 시장 활성화와 가장 직접적인 상관관계를 갖는 네트워크 요구 조건은?",
+    "choices": {
+      "①": "초저지연·초고속",
+      "②": "고전압 전력 공급",
+      "③": "단일 채널 동기화",
+      "④": "패킷 손실율 증가"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 22,
+    "question": "SoC(System on Chip)의 주요 이점으로 옳지 않은 것은?",
+    "choices": {
+      "①": "집적도 향상",
+      "②": "전력 소모 증가",
+      "③": "제품 크기 축소",
+      "④": "원가 절감"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 23,
+    "question": "MEMS 센서 예시로 적절한 것은?",
+    "choices": {
+      "①": "기상 위성",
+      "②": "3축 가속도계",
+      "③": "유선 공유기",
+      "④": "CRT 모니터"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 24,
+    "question": "SoC 설계 시 흔히 사용하는 하드웨어 기술 언어는?",
+    "choices": {
+      "①": "VHDL",
+      "②": "HTML",
+      "③": "SQL",
+      "④": "CSS"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 25,
+    "question": "MEMS 공정에서 ‘에칭(etching)’ 공정의 목적은?",
+    "choices": {
+      "①": "웨이퍼 표면 연마",
+      "②": "패턴이 없는 보호막 증착",
+      "③": "원하는 패턴 부분의 물질 제거",
+      "④": "금속 배선 두께 증가"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 26,
+    "question": "SoC와 전통적 PCB 기반 설계의 차이로 가장 거리가 먼 것은?",
+    "choices": {
+      "①": "집적 회로 내장 여부",
+      "②": "설계 레이어 수",
+      "③": "부품 간 패키지 연결선 길이",
+      "④": "인터넷 프로토콜 종류"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 27,
+    "question": "MEMS 기반 저전력 센서가 유비쿼터스 네트워크에 기여하는 주된 효과는?",
+    "choices": {
+      "①": "데이터 트래픽 급증",
+      "②": "디바이스 수명 단축",
+      "③": "고해상도 센싱·실시간 정보 수집",
+      "④": "유선망 의존도 증가"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 28,
+    "question": "SoC가 IoT 디바이스 필수 요소로 꼽히는 이유는?",
+    "choices": {
+      "①": "대량 메모리 장착 불가",
+      "②": "네트워크 기능 분리",
+      "③": "저전력·소형화·무선 통합이 용이해서",
+      "④": "하드디스크 연결이 전제돼서"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 29,
+    "question": "나노기술의 대표적 응용으로 거리가 가장 먼 것은?",
+    "choices": {
+      "①": "초발수 코팅",
+      "②": "양자점 디스플레이",
+      "③": "고전압 변압기",
+      "④": "그래핀 트랜지스터"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 30,
+    "question": "리튬-황(Li-S) 배터리의 이론적 장점은?",
+    "choices": {
+      "①": "고가 원재료 사용",
+      "②": "에너지 밀도 증가",
+      "③": "충전 시간 증가",
+      "④": "메모리 효과 악화"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 31,
+    "question": "차세대 전지 연구에서 '고체 전해질'이 주목받는 이유는?",
+    "choices": {
+      "①": "전지 폭발 방지·안전성 향상",
+      "②": "전극 부식 촉진",
+      "③": "출력 전압 감소",
+      "④": "용량 저하 가속"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 32,
+    "question": "나노선(nanowire) 기반 센서의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "감지 면적이 좁아 민감도가 낮다",
+      "②": "표면적 대비 부피가 커 전하 이동이 느리다",
+      "③": "저전력 고감도 검출이 가능하다",
+      "④": "굴곡성이 전혀 없다"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 33,
+    "question": "리튬-이온 배터리에서 음극 재료로 그래파이트 대신 실리콘을 사용하는 이유는?",
+    "choices": {
+      "①": "실리콘의 고가성",
+      "②": "이론적 용량이 훨씬 높음",
+      "③": "충방전 팽창이 없음",
+      "④": "전해질 분해 촉진"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 34,
+    "question": "나노 기술이 유비쿼터스 센서 네트워크에 기여하는 대표 효과는?",
+    "choices": {
+      "①": "센서 크기 대형화",
+      "②": "전력 소비 증가",
+      "③": "대량 저가 생산 및 배치",
+      "④": "유선 데이터 전송 한정"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 35,
+    "question": "차세대 전지로 분류되지 않는 것은?",
+    "choices": {
+      "①": "리튬-공기 전지",
+      "②": "납축전지",
+      "③": "나트륨-이온 전지",
+      "④": "고체 전해질 전지"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 36,
+    "question": "유비쿼터스 네트워크가 충족해야 할 가장 기본적인 속성은?",
+    "choices": {
+      "①": "단일 공급자 종속성",
+      "②": "높은 가용성과 끊김 없는 연결",
+      "③": "고가 장비 의무 사용",
+      "④": "무선 기능 배제"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 37,
+    "question": "사물인터넷(IoT)의 무선 근거리 프로토콜로 적절하지 않은 것은?",
+    "choices": {
+      "①": "Wi-Fi HaLow",
+      "②": "Bluetooth Low Energy",
+      "③": "Zigbee",
+      "④": "MPEG-2"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 38,
+    "question": "IPv6가 IoT 환경에서 IPv4보다 선호되는 주요 이유는?",
+    "choices": {
+      "①": "주소 공간 대폭 확대",
+      "②": "패킷 헤더 길이 단축",
+      "③": "ARP 필요성 증가",
+      "④": "NAT 의존 강화"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 39,
+    "question": "LPWAN 기술에 해당하지 않는 것은?",
+    "choices": {
+      "①": "LoRaWAN",
+      "②": "Sigfox",
+      "③": "NB-IoT",
+      "④": "802.11ac"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 40,
+    "question": "에지 컴퓨팅(edge computing)의 등장 배경으로 적절한 설명은?",
+    "choices": {
+      "①": "데이터를 중앙 서버로만 모아 처리하려는 요구",
+      "②": "지연(latency) 감소와 로컬 실시간 처리를 위한 요구",
+      "③": "클라우드 트래픽 증대를 방지하기 위한 네트워크 금지",
+      "④": "고정 회선 의존도 강화"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 41,
+    "question": "QoS(Quality of Service)를 보장하기 위한 네트워크 메커니즘으로 부적절한 것은?",
+    "choices": {
+      "①": "패킷 우선순위 지정",
+      "②": "대역폭 예약",
+      "③": "트래픽 셰이핑",
+      "④": "DNS 라운드로빈"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 42,
+    "question": "5G 네트워크의 초저지연 특성이 특히 중요한 서비스는?",
+    "choices": {
+      "①": "이메일 전송",
+      "②": "자율주행 자동차 제어",
+      "③": "오프라인 문서 편집",
+      "④": "정적 웹 호스팅"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 43,
+    "question": "블록체인의 기본 구조 요소가 아닌 것은?",
+    "choices": {
+      "①": "해시(Hash)",
+      "②": "트랜잭션(Transaction)",
+      "③": "중앙 권한자(Central Authority)",
+      "④": "이전 블록 참조(Prev Hash)"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 44,
+    "question": "작업증명(Proof-of-Work)의 주요 목적은?",
+    "choices": {
+      "①": "블록 용량 축소",
+      "②": "분산합의 보안 확보",
+      "③": "즉시 결제 승인",
+      "④": "거래 수수료 고정"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 45,
+    "question": "핀테크 서비스로 볼 수 없는 것은?",
+    "choices": {
+      "①": "모바일 지급결제",
+      "②": "로보어드바이저 자산 관리",
+      "③": "SMS 문자 수신",
+      "④": "P2P 대출 플랫폼"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 46,
+    "question": "스마트 계약이 실행되는 대표 블록체인 플랫폼은?",
+    "choices": {
+      "①": "Bitcoin",
+      "②": "Ethereum",
+      "③": "SMTPChain",
+      "④": "FTPLedger"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 47,
+    "question": "블록체인 유형 중 '프라이빗 블록체인'의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "완전 공개 노드 참여",
+      "②": "허가형 접근 제어",
+      "③": "매번 새로운 합의 알고리즘",
+      "④": "토큰 발행 불가능"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 48,
+    "question": "CBDC(중앙은행 디지털화폐)의 주된 목표가 아닌 것은?",
+    "choices": {
+      "①": "현금 유통 비용 절감",
+      "②": "사설 스테이블코인 대체",
+      "③": "완전 익명 다크웹 결제 강화",
+      "④": "금융포용성 확대"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 49,
+    "question": "블록체인에서 포크(fork)가 발생하는 일반적 원인이 아닌 것은?",
+    "choices": {
+      "①": "합의 실패로 체인 분기",
+      "②": "프로토콜 업데이트",
+      "③": "채굴자의 동시 블록 생성",
+      "④": "DNS 캐시 만료"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 50,
+    "question": "클라우드 서비스 모델 IaaS의 대표 예시는?",
+    "choices": {
+      "①": "Amazon EC2",
+      "②": "Google Docs",
+      "③": "Salesforce CRM",
+      "④": "Figma"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 51,
+    "question": "클라우드 배포 모델 중 조직 내부 데이터센터를 가상화하여 운영하는 형태는?",
+    "choices": {
+      "①": "퍼블릭 클라우드",
+      "②": "프라이빗 클라우드",
+      "③": "멀티 클라우드",
+      "④": "커뮤니티 클라우드"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 52,
+    "question": "클라우드 네이티브 애플리케이션의 핵심 기술이 아닌 것은?",
+    "choices": {
+      "①": "컨테이너",
+      "②": "마이크로서비스",
+      "③": "모놀리식 배포",
+      "④": "DevOps 파이프라인"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 53,
+    "question": "클라우드에서 리소스 자동 확장(Auto-scaling)을 사용하는 주요 목적은?",
+    "choices": {
+      "①": "정전 대비 UPS 구축",
+      "②": "수요 변동에 따른 자원 최적화",
+      "③": "CPU 오버클럭",
+      "④": "온프레미스 비용 증가"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 54,
+    "question": "무상(無常)요금제(Pay-as-you-go) 방식이 가진 강점으로 적절하지 않은 것은?",
+    "choices": {
+      "①": "사용량 기반 과금",
+      "②": "초기 투자 비용 절감",
+      "③": "장기 고정 비용만 발생",
+      "④": "비지속적 워크로드에 적합"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 55,
+    "question": "클라우드 보안 책임 공유 모델에서 클라우드 제공자가 직접 책임지지 않는 영역은?",
+    "choices": {
+      "①": "데이터 암호화 설정",
+      "②": "가상화 하이퍼바이저 패치",
+      "③": "물리 서버 보안",
+      "④": "시설 출입 통제"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 56,
+    "question": "클라우드 컴퓨팅의 서비스 품질을 규정·보장하기 위한 문서는?",
+    "choices": {
+      "①": "SLA",
+      "②": "NDA",
+      "③": "GDPR",
+      "④": "PCI-DSS"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 57,
+    "question": "USN(유비쿼터스 센서 네트워크)의 기본 토폴로지 형태가 아닌 것은?",
+    "choices": {
+      "①": "스타형",
+      "②": "트리형",
+      "③": "메시형",
+      "④": "버스형"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 58,
+    "question": "센서 네트워크에서 에너지 효율성을 높이기 위해 사용하는 기법 중 하나는?",
+    "choices": {
+      "①": "계층적 클러스터링",
+      "②": "과도한 재전송",
+      "③": "고출력 전송 고정",
+      "④": "주기적 데이터 폭주"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 59,
+    "question": "센서 노드의 필수 구성 요소가 아닌 것은?",
+    "choices": {
+      "①": "센싱 장치",
+      "②": "처리 장치",
+      "③": "GPS 위성",
+      "④": "통신 장치"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 60,
+    "question": "USN 미들웨어의 주 기능으로 적절한 것은?",
+    "choices": {
+      "①": "OS 커널 스케줄링",
+      "②": "센서 데이터 수집·필터링·공유",
+      "③": "디스크 조각 모음",
+      "④": "레이저 가공"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 61,
+    "question": "WSN에서 토폴로지 제어의 주요 목적은?",
+    "choices": {
+      "①": "패킷 손실률 증가",
+      "②": "배터리 수명 연장 및 커버리지 유지",
+      "③": "주소 공간 축소",
+      "④": "센서 가격 인상"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 62,
+    "question": "센서 네트워크 라우팅 프로토콜 중 데이터-중심(Data-Centric) 방식의 특징은?",
+    "choices": {
+      "①": "데이터 내용 기반 주소 지정",
+      "②": "전통적 IP 주소 사용",
+      "③": "위성 링크 강제 사용",
+      "④": "전원 공급 무시"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 63,
+    "question": "USN 적용 사례로 보기 힘든 것은?",
+    "choices": {
+      "①": "스마트 홈 온도 제어",
+      "②": "정밀 농업 토양 모니터링",
+      "③": "오프라인 종이 설문 조사",
+      "④": "재난 지역 구조 로봇 통신"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 64,
+    "question": "상황인식(Context-Aware) 컴퓨팅에서 '1차 상황'으로 분류되는 정보는?",
+    "choices": {
+      "①": "사용자의 기분",
+      "②": "온도·습도",
+      "③": "장기 행동 패턴",
+      "④": "개인 취향 모델"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 65,
+    "question": "상황 정보 표현 방법으로 사용되는 표준이 아닌 것은?",
+    "choices": {
+      "①": "XML",
+      "②": "JSON-LD",
+      "③": "RDF",
+      "④": "SMTP"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 66,
+    "question": "상황인식 서비스에서 '추론(reasoning)' 단계의 주된 기능은?",
+    "choices": {
+      "①": "센서 교정",
+      "②": "데이터 로깅 삭제",
+      "③": "상황 규칙·모델 기반 판단",
+      "④": "UI 스킨 변경"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 67,
+    "question": "다음 중 상황인식 미들웨어가 제공하는 기능으로 보기 어려운 것은?",
+    "choices": {
+      "①": "상황 데이터 수집",
+      "②": "실시간 추론 엔진",
+      "③": "웹 서버 DNS 레코드 생성",
+      "④": "개인화 서비스 인터페이스"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 68,
+    "question": "상황인식 서비스 설계 시 가장 먼저 고려해야 할 요소는?",
+    "choices": {
+      "①": "데이터베이스 브랜드",
+      "②": "상황 모델링 범위와 정확성",
+      "③": "폰트 라이센스",
+      "④": "HTML 마크업"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 69,
+    "question": "위치 기반 서비스(LBS)는 상황인식 기술의 일례이다. 위치 측위를 위해 GPS가 사용될 수 없는 실내 환경에서 흔히 사용하는 기술은?",
+    "choices": {
+      "①": "셀룰러 타워 삼각 측량",
+      "②": "블루투스 비콘",
+      "③": "해저 음파 측정",
+      "④": "적외선 원격 조정"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 70,
+    "question": "상황인식 시스템 테스트 시 고려해야 할 품질 속성으로 부적절한 것은?",
+    "choices": {
+      "①": "정확성",
+      "②": "지연 시간",
+      "③": "전문용어 난이도",
+      "④": "보안·프라이버시"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 71,
+    "question": "HCI 연구에서 '사용성(usability)' 평가 항목이 아닌 것은?",
+    "choices": {
+      "①": "효율성",
+      "②": "만족도",
+      "③": "심미성",
+      "④": "회복성"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 72,
+    "question": "음성 기반 HCI 시스템 성능 지표로 부적절한 것은?",
+    "choices": {
+      "①": "WER(Word Error Rate)",
+      "②": "응답 지연 시간",
+      "③": "CPU 온도",
+      "④": "사용자 만족도 설문점수"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 73,
+    "question": "웨어러블 컴퓨팅 장치 설계 시 고려되는 HCI 요소로 가장 거리가 먼 것은?",
+    "choices": {
+      "①": "배터리 무게",
+      "②": "착용 편의성",
+      "③": "망막 해상도 일치",
+      "④": "투명성 있는 데이터 수집 알림"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 74,
+    "question": "HRI(Human-Robot Interaction) 설계 원칙 중 '신뢰성' 확보와 직접 관계가 있는 것은?",
+    "choices": {
+      "①": "로봇 행동 예측 가능성",
+      "②": "로봇 색상 팔레트",
+      "③": "디버깅 로그 레벨",
+      "④": "USB 포트 개수"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 75,
+    "question": "착용형 컴퓨터와 상호작용할 때 '투과형(head-up) 디스플레이'의 장점으로 옳지 않은 것은?",
+    "choices": {
+      "①": "시야 분할 최소화",
+      "②": "현실 정보 동시 인지",
+      "③": "완전 몰입 단절",
+      "④": "주변 위험 인식 향상"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 76,
+    "question": "로봇 서비스 플랫폼에서 사용자의 비언어적 신호(gesture)를 인식하는 센서 조합으로 적절한 것은?",
+    "choices": {
+      "①": "GPS + NFC",
+      "②": "RGB-D 카메라 + IMU",
+      "③": "마우스 + 키보드",
+      "④": "FM 라디오 튜너"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 77,
+    "question": "인간-로봇 상호작용에서 로봇 자율성과 사용자의 제어 권한을 균형 있게 배분하기 위한 설계 패러다임은?",
+    "choices": {
+      "①": "쉘 스크립팅",
+      "②": "사람-로봇 협업(Collaborative Control)",
+      "③": "단방향 명령 제어",
+      "④": "오프라인 배치 처리"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 78,
+    "question": "유비쿼터스 시대 정보보호 3요소(C.I.A) 중 '무결성(Integrity)'을 위협하는 행위는?",
+    "choices": {
+      "①": "데이터 암호화",
+      "②": "불법 수정·위변조",
+      "③": "접근 제어",
+      "④": "백업 복제"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 79,
+    "question": "스마트 환경에서 경량 암호(lightweight cryptography)가 필요한 주된 이유는?",
+    "choices": {
+      "①": "프로세서 성능 과잉",
+      "②": "저전력·저자원 디바이스 보호",
+      "③": "하드디스크 용량 초과",
+      "④": "후행 호환성 폐지"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 80,
+    "question": "데이터 프라이버시 보호 기법 중 '차등 개인정보 보호(Differential Privacy)'의 핵심 아이디어는?",
+    "choices": {
+      "①": "원본 데이터를 공개",
+      "②": "무작위 노이즈 삽입으로 개별 식별 방지",
+      "③": "암호키 분실 시 복구",
+      "④": "패스워드 길이 연장"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 81,
+    "question": "유비쿼터스 환경에서 발생하는 '사물 간 인증'을 위해 일반적으로 적용되는 프로토콜은?",
+    "choices": {
+      "①": "TLS/DTLS",
+      "②": "POP3",
+      "③": "SNMPv1",
+      "④": "Telnet"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 82,
+    "question": "IoT 보안 위협 중 '봇넷' 공격은 주로 어떤 문제를 일으키는가?",
+    "choices": {
+      "①": "노드 배터리 수명 연장",
+      "②": "분산 서비스 거부(DDOS)",
+      "③": "위치 오차 감소",
+      "④": "센서 정확도 향상"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 83,
+    "question": "RFID 시스템에서 개인 정보 유출을 최소화하기 위한 기술적 조치로 올바른 것은?",
+    "choices": {
+      "①": "태그 ID 공개 브로드캐스트",
+      "②": "Kill 명령 또는 자가 소멸 태그 적용",
+      "③": "안테나 출력 상향",
+      "④": "고정 키 재사용"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 84,
+    "question": "유비쿼터스 환경 침해 사고 대응 절차에서 가장 먼저 수행해야 할 단계는?",
+    "choices": {
+      "①": "증거 보존",
+      "②": "원인 분석",
+      "③": "서비스 복구",
+      "④": "사고 탐지·식별"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 85,
+    "question": "스마트 자동차 기술에서 ADAS가 의미하는 것은?",
+    "choices": {
+      "①": "자동차 동력 계통",
+      "②": "첨단 운전자 지원 시스템",
+      "③": "엔진 오일 교환 주기",
+      "④": "배터리 관리 시스템"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 86,
+    "question": "자율주행 레벨 4의 특징으로 옳은 것은?",
+    "choices": {
+      "①": "운전자 상시 개입 필요",
+      "②": "제한된 조건에서 완전 자율 주행",
+      "③": "경고·지원 기능만 제공",
+      "④": "핸들·페달 제거 불가"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 87,
+    "question": "스마트 자동차 V2X 통신에서 'X'가 의미하지 않는 대상은?",
+    "choices": {
+      "①": "차량(vehicle)",
+      "②": "인프라(infrastructure)",
+      "③": "사람(human)",
+      "④": "전구(light bulb)"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 88,
+    "question": "차량용 이더넷(Automotive Ethernet)이 CAN 버스 대비 갖는 장점은?",
+    "choices": {
+      "①": "더 낮은 대역폭",
+      "②": "더 높은 지연",
+      "③": "고속 데이터 전송 및 카메라 센서 통합",
+      "④": "노이즈 내성 감소"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 89,
+    "question": "스마트 자동차 보안 공격 중 차량 물리적 제어를 탈취하는 대표 공격 벡터는?",
+    "choices": {
+      "①": "OBD-II 포트 악성 코드 주입",
+      "②": "라디오 주파수 혼선",
+      "③": "타이어 공기압 불균형",
+      "④": "창문 틴팅"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 90,
+    "question": "차량 공유 서비스 플랫폼에서 필수적으로 고려해야 할 요소가 아닌 것은?",
+    "choices": {
+      "①": "실시간 위치 추적",
+      "②": "보험·결제 시스템 연동",
+      "③": "엔진 배기량 증가",
+      "④": "사용자 인증"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 91,
+    "question": "금융권에서 차량 데이터를 활용해 보험료를 산정하는 서비스 모델은?",
+    "choices": {
+      "①": "UBI(Usage-based Insurance)",
+      "②": "CDN(Content Delivery Network)",
+      "③": "VPN(Virtual Private Network)",
+      "④": "ERP(Enterprise Resource Planning)"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 92,
+    "question": "빅데이터 3V 특성에 해당하지 않는 것은?",
+    "choices": {
+      "①": "Volume",
+      "②": "Velocity",
+      "③": "Variety",
+      "④": "Validity"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 93,
+    "question": "분산 처리 프레임워크 Hadoop의 핵심 구성 요소 두 가지는?",
+    "choices": {
+      "①": "HDFS와 MapReduce",
+      "②": "SMTP와 POP3",
+      "③": "TensorFlow와 PyTorch",
+      "④": "IPv4와 IPv6"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 94,
+    "question": "스트림 데이터 처리를 위한 대표 플랫폼이 아닌 것은?",
+    "choices": {
+      "①": "Apache Spark Streaming",
+      "②": "Apache Flink",
+      "③": "Apache Kafka Streams",
+      "④": "Microsoft Excel"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 95,
+    "question": "NoSQL 데이터베이스가 전통적 RDBMS보다 유리한 시나리오는?",
+    "choices": {
+      "①": "복잡한 조인 기반 회계 처리",
+      "②": "대규모 세션 로그 빠른 적재",
+      "③": "단일 트랜잭션 강력 일관성",
+      "④": "정형 스키마 강제"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 96,
+    "question": "머신러닝 모델 학습 데이터 전처리 과정에서 '정규화'를 수행하는 주된 이유는?",
+    "choices": {
+      "①": "모델 메모리 사용량 증가",
+      "②": "스케일 차이로 인한 학습 불안정 방지",
+      "③": "정답 레이블 제거",
+      "④": "데이터 중복 증가"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 97,
+    "question": "데이터 분석 프로젝트의 CRISP-DM 단계 중 모델 성능 평가가 이뤄지는 단계는?",
+    "choices": {
+      "①": "데이터 이해(Data Understanding)",
+      "②": "데이터 준비(Data Preparation)",
+      "③": "모델링(Modeling)",
+      "④": "평가(Evaluation)"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 98,
+    "question": "데이터 시각화 라이브러리로 분류되지 않는 것은?",
+    "choices": {
+      "①": "D3.js",
+      "②": "Matplotlib",
+      "③": "NumPy",
+      "④": "ggplot2"
+    },
+    "correct_answer": "③"
+  },
+  {
+    "question_number": 99,
+    "question": "머신러닝 학습 방식 중 '지도학습(supervised learning)'의 특징은?",
+    "choices": {
+      "①": "레이블이 없는 데이터 사용",
+      "②": "목표 변수 예측을 위해 레이블이 있는 데이터 사용",
+      "③": "환경 보상 기반 의사결정",
+      "④": "데이터 증강 기법만 수행"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 100,
+    "question": "딥러닝에서 과적합(overfitting)을 방지하기 위한 기법으로 적절하지 않은 것은?",
+    "choices": {
+      "①": "드롭아웃",
+      "②": "조기 종료(early stopping)",
+      "③": "데이터 증강",
+      "④": "학습률 무한 증가"
+    },
+    "correct_answer": "④"
+  },
+  {
+    "question_number": 101,
+    "question": "강화학습에서 에이전트가 환경과 상호작용하며 받는 값으로, 학습 목표를 정의하는 신호는?",
+    "choices": {
+      "①": "손실(loss)",
+      "②": "보상(reward)",
+      "③": "가중치(weight)",
+      "④": "에폭(epoch)"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 102,
+    "question": "CNN(합성곱 신경망)의 주요 장점으로 옳은 것은?",
+    "choices": {
+      "①": "순환 구조로 시계열 처리 최적화",
+      "②": "공유 가중치로 파라미터 수 감소",
+      "③": "트리 기반 의사결정",
+      "④": "비선형 회귀에만 사용"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 103,
+    "question": "언어 모델 평가 지표인 '퍼플렉서티(perplexity)'가 낮을수록 의미하는 바는?",
+    "choices": {
+      "①": "모델 예측이 더 정확하다",
+      "②": "모델이 무조건 정답을 출력한다",
+      "③": "데이터 전처리가 불완전하다",
+      "④": "모델이 과적합되었다"
+    },
+    "correct_answer": "①"
+  },
+  {
+    "question_number": 104,
+    "question": "GAN(Generative Adversarial Network)의 구성 요소 두 가지는?",
+    "choices": {
+      "①": "인코더와 디코더",
+      "②": "생성자와 판별자",
+      "③": "쿼리와 키",
+      "④": "노드와 엣지"
+    },
+    "correct_answer": "②"
+  },
+  {
+    "question_number": 105,
+    "question": "AI 윤리 원칙에서 자율성 존중(respect for autonomy)을 위반하는 사례는?",
+    "choices": {
+      "①": "사용자 동의 없는 데이터 수집",
+      "②": "모델 편향 검증",
+      "③": "기술적 투명성 확보",
+      "④": "개인 정보 익명화"
+    },
+    "correct_answer": "①"
+  }
+]
